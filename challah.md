@@ -11,6 +11,8 @@ Adapted from many other recipes:
 
 This uses about 1% yeast, which seems to be [standard for dry yeast](http://www.thefreshloaf.com/node/23085/yeast-percentages). Could also try this with fresh yeast, if I can find [where to buy it](https://food52.com/hotline/7533-where-should-i-buy-fresh-yeast).
 
+TODO: bake with [steam in the oven](http://eshet-chayil-shop.blogspot.com/2012/06/how-to-bake-challah-bread.html)
+
 Time: 4 hours (about 1 1/2 hours working plus 2 1/2 hours rising)
 
 Yield: 1 loaf
