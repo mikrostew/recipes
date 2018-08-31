@@ -34,21 +34,21 @@ Yield: 1 loaf
 ### Equipment
 
 * [ ] Kitchen scale
-* [ ] Large mixing bowl
+* [ ] 2 Large mixing bowls
 * [ ] Whisk
 * [ ] Bench scraper
 * [ ] 2 Baking sheets
 * [ ] Parchment paper
 
-### Make the Dough (45 minutes)
+### Make the Dough (30 minutes)
 
-* [ ] Sprinkle the **yeast** over the **water** in a large bowl, and add 1/2 Tbsp **sugar**. Stir to dissolve, and let stand until you see a thin foamy layer on top, about 5 minutes. (Although dissolving yeast is [not really necessary these days?](https://blog.kingarthurflour.com/2015/09/25/active-dry-yeast/).)
-* [ ] Whisk in **oil**. Beat in 2 **eggs** and **yolk**, one at a time. Mix in remaining **sugar** and **salt**. Gradually add **flour**. When dough holds together, it is ready for kneading. (Can use a dough hook for this, but that's just going to get more things dirty)
-* [ ] Turn dough onto a floured work surface. Clean out bowl and grease it. Knead dough until smooth (about 10 minutes). If the dough is very sticky, add some **flour** until it feels tacky. The dough has finished kneading when it is soft, smooth, and holds a ball shape.
+* [ ] Sprinkle the **yeast** over the **water** in a large bowl, and add 1/2 Tbsp **sugar**. Stir to dissolve, and let stand until you see a thin foamy layer on top, about 5 minutes. (Although dissolving yeast is [not really necessary these days?](https://blog.kingarthurflour.com/2015/09/25/active-dry-yeast/))
+* [ ] Whisk in **oil**. Beat in 2 **eggs** and **yolk**, one at a time. Mix in remaining **sugar** and **salt**. Gradually add **flour**. When dough holds together, it is ready for kneading. (Can use a dough hook for this, but that's just going to get more things dirty.)
+* [ ] Turn dough onto a floured work surface. Knead dough until smooth (about 10 minutes). If the dough is very sticky, add some **flour** until it feels tacky. The dough has finished kneading when it is soft, smooth, and holds a ball shape.
 
 ### First & Second Rise (1 hour 30 minutes)
 
-* [ ] Return dough to greased bowl. Cover with plastic wrap, and let rise in a warm place for 1 hour, until almost doubled in size. (Can set oven to *warm* while the yeast proofs, then turn *off*.)
+* [ ] Place dough in greased bowl. Cover with plastic wrap, and let rise in a warm place for 1 hour, until almost doubled in size. (Can set oven to *warm* for a couple minutes while the yeast proofs, then turn *off*.)
 * [ ] Punch down dough, cover and let rise again in a warm place for another 30 minutes.
 
 ### Braid (15 minutes)
