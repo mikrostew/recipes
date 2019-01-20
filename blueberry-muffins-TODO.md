@@ -15,6 +15,7 @@ and I followed the ideas from the most helpful comment:
 for buttermilk I used 1/3 cup milk + 1 tsp vinegar, letting it sit and curdle while I put the dry ingredients together
 
 plus tossing the blueberries in flour then folding them in (should have dried a bit them first, got some dough pieces in with the blueberries)
+(probably doesn't help: https://www.seriouseats.com/2016/07/how-to-stop-blueberries-from-sinking-muffin-baking.html)
 
 and I had to bake for about 24 minutes, because I put them in the paper liners
 (and rotated halfway thru)

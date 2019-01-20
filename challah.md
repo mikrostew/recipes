@@ -13,6 +13,13 @@ This uses about 1% yeast, which seems to be [standard for dry yeast](http://www.
 
 TODO: bake with [steam in the oven](http://eshet-chayil-shop.blogspot.com/2012/06/how-to-bake-challah-bread.html)
 
+TODO: read more articles about challah, why not...
+* http://thehomemakerscupboard.blogspot.com/2011/01/butter-based-challah-for-shabbat.html
+* https://prettysimplesweet.com/perfect-challah/
+* https://www.epicurious.com/recipes/food/views/challah-51220210
+* https://toriavey.com/how-to/challah-bread-part-1-the-blessing-and-the-dough/
+
+
 Time: 4 hours (about 1 1/2 hours working plus 2 1/2 hours rising)
 
 Yield: 1 loaf
