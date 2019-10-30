@@ -41,3 +41,10 @@ https://www.seriouseats.com/recipes/2017/06/easy-zucchini-basil-soup-recipe.html
 
 one pan tuna noodle casserole
 https://www.seriouseats.com/recipes/2014/09/easy-one-pot-no-knife-lighter-tuna-noodle-casserole-recipe.html
+
+https://www.seriouseats.com/dinner-in-20/quick-chicken-recipes
+https://www.seriouseats.com/dinner-in-20/quick-fish-and-seafood-recipes
+https://www.seriouseats.com/dinner-in-20/quick-sandwich-recipes
+https://www.seriouseats.com/dinner-in-20/quick-salad-and-vegetable-recipes
+https://www.seriouseats.com/dinner-in-20/quick-beef-pork-and-lamb-recipes
+https://www.seriouseats.com/dinner-in-20/quick-pasta-and-rice-recipes
