@@ -42,9 +42,24 @@ https://www.seriouseats.com/recipes/2017/06/easy-zucchini-basil-soup-recipe.html
 one pan tuna noodle casserole
 https://www.seriouseats.com/recipes/2014/09/easy-one-pot-no-knife-lighter-tuna-noodle-casserole-recipe.html
 
-https://www.seriouseats.com/dinner-in-20/quick-chicken-recipes
-https://www.seriouseats.com/dinner-in-20/quick-fish-and-seafood-recipes
-https://www.seriouseats.com/dinner-in-20/quick-sandwich-recipes
-https://www.seriouseats.com/dinner-in-20/quick-salad-and-vegetable-recipes
-https://www.seriouseats.com/dinner-in-20/quick-beef-pork-and-lamb-recipes
-https://www.seriouseats.com/dinner-in-20/quick-pasta-and-rice-recipes
+Grilled Lemon-Garlic Chicken and Tomato Kebabs With Basil Chimichurri Recipe
+https://www.seriouseats.com/recipes/2016/08/grilled-lemon-garlic-chicken-tomato-kebab-skewer-basil-chimichurri-recipe.html
+
+Crispy Pan-Seared Salmon Fillets Recipe
+https://www.seriouseats.com/recipes/2017/01/crispy-pan-seared-salmon-fillets-recipe.html
+
+Baked Cod and Summer Squash in Foil Packets Recipe
+https://www.seriouseats.com/recipes/2014/08/baked-cod-summer-squash-recipe.html
+
+Skillet Salmon With Quinoa, Feta, and Arugula Recipe
+https://www.seriouseats.com/recipes/2013/03/skillet-salmon-quinoa-feta-arugula-recipe.html
+
+Buffalo Chicken Grilled Cheese Sandwich Recipe
+https://www.seriouseats.com/recipes/2015/02/buffalo-chicken-grilled-cheese-sandwich-recipe.html
+
+Green Salad With Tomatoes, Scallions, and Toasted Kasha Recipe
+https://www.seriouseats.com/recipes/2015/09/toasted-kasha-salad-recipe.html
+
+Fig, Melon, and Spanish Ham Salad With Basil Recipe
+https://www.seriouseats.com/recipes/2015/07/fig-melon-spanish-ham-basil-salad-summer.html
+
