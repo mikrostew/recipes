@@ -51,3 +51,24 @@ https://cooking.nytimes.com/recipes/1018803-slow-cooker-butter-chicken
 https://www.wellplated.com/slow-cooker-butter-chicken/
 
 https://www.allrecipes.com/recipe/174543/slow-cooker-butter-chicken/
+
+
+## murgh makhani
+
+Maybe searching for that specifically will bring up better, more authentic recipes? We'll see...
+
+https://www.allrecipes.com/recipe/212722/murgh-makhani-indian-butter-chicken/
+
+http://maunikagowardhan.co.uk/cook-in-a-curry/butter-chicken-murgh-makhani-chicken-cooked-in-a-spiced-tomato-gravy/
+
+http://littlespicejar.com/finger-lickin-butter-chicken-murgh-makhani/
+
+http://www.ecurry.com/blog/indian/curries/gravies/murgh-makhani-butter-chicken/
+
+https://www.daringgourmet.com/indian-butter-chicken-murgh-makhani/
+
+https://www.indianhealthyrecipes.com/murgh-makhani-recipe-butter-chicken/
+
+https://hot-thai-kitchen.com/butter-chicken/
+
+https://www.cookingcurries.com/butter-chicken-murgh-makhani/
