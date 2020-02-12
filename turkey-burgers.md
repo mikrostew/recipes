@@ -17,7 +17,7 @@ Ingredients
 * 2 garlic cloves, minced (or 1/4 tsp garlic powder)
 * 1/4 teaspoon liquid red pepper seasoning (optional)
 * black pepper, to taste (~6 grinds)
-* pinch of salt
+* 2 big pinches of salt
 * 6 hamburger buns, to serve
 
 Directions
