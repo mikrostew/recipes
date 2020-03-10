@@ -52,6 +52,8 @@ https://www.wellplated.com/slow-cooker-butter-chicken/
 
 https://www.allrecipes.com/recipe/174543/slow-cooker-butter-chicken/
 
+https://food52.com/recipes/74991-urvashi-pitre-s-now-later-instant-pot-butter-chicken (uses an instant pot)
+
 
 ## murgh makhani
 
