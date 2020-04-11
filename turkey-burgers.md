@@ -18,12 +18,12 @@ Ingredients
 * 1/4 teaspoon liquid red pepper seasoning (optional)
 * black pepper, to taste (~6 grinds)
 * 2 big pinches of salt
-* 6 hamburger buns, to serve
+* 4 hamburger buns, to serve
 
 Directions
 
 * Combine all ingredients in large bowl.
-* Shape into 6 patties.
+* Shape into 4 patties.
 * Pan-fry, broil, or grill until lightly browned and cooked through, about 5 minutes per side.
 * Serve in hamburger buns with desired toppings.
 
