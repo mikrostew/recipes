@@ -7,26 +7,27 @@ Total time: 2 hours
 
 Ingredients
 
-6 tablespoons olive oil
-5 garlic cloves
-2 birds eye chiles
-2 long red chiles
-2 medium yellow onion, roughly chopped
-3 thumbs worth ginger, peeled
-1/2 cup|125 ml ghee
-3 tablespoons tomato paste
-3 tablespoons turmeric
-2 tablespoons chili powder
-2 tablespoons garam masala
-2 tablespoons ground coriander
-2 tablespoons ground cumin
-3 1/2 cups|785 grams tomato puree
-1 tablespoon dried Fenugreek leaves
-4 boneless and skinless chicken breasts, cut into 1-inch chunks (about 1 kg)
-2 cups|500 ml heavy cream
-8 tablespoons|113 grams unsalted butter
-fresh cilantro
-cooked Jasmine rice, to serve
+* 6 tablespoons olive oil
+* 5 garlic cloves
+* 2 birds eye chiles
+* 2 long red chiles
+* 2 medium yellow onion, roughly chopped
+* 3 thumbs worth ginger, peeled
+* 1/2 cup|125 ml ghee
+* 3 tablespoons tomato paste
+* 3 tablespoons turmeric
+* 2 tablespoons chili powder
+* 2 tablespoons garam masala
+* 2 tablespoons ground coriander
+* 2 tablespoons ground cumin
+* 3 1/2 cups|785 grams tomato puree
+* 1 tablespoon dried Fenugreek leaves
+* 4 boneless and skinless chicken breasts, cut into 1-inch chunks (about 1 kg)
+* 2 cups|500 ml heavy cream
+* 8 tablespoons|113 grams unsalted butter
+* fresh cilantro
+* cooked Jasmine rice, to serve
+
 Directions
 
 1. Place the olive oil, garlic, chilies, onion, and ginger in a blender and purée until smooth.
