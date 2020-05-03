@@ -1,10 +1,8 @@
 # turkey burgers
 
-from http://www.food.com/recipe/tasty-turkey-burgers-20731
+4 servings
 
-6 servings
-
-Ingredients
+## Ingredients
 
 * 1 lb ground turkey
 * 1/2 cup dry breadcrumbs (or almond flour)
@@ -20,11 +18,18 @@ Ingredients
 * 2 big pinches of salt
 * 4 hamburger buns, to serve
 
-Directions
+## Directions
 
-* Combine all ingredients in large bowl.
-* Shape into 4 patties.
-* Pan-fry, broil, or grill until lightly browned and cooked through, about 5 minutes per side.
-* Serve in hamburger buns with desired toppings.
+Combine all ingredients in large bowl.
+
+Shape into 4 patties.
+
+Pan-fry, broil, or grill until lightly browned and cooked through, about 5 minutes per side.
+
+Serve in hamburger buns with toppings.
+
+## Notes
 
 My favorite toppings: lettuce, tomato, relish, ketchup, sun dried tomato, avocado
+
+From http://www.food.com/recipe/tasty-turkey-burgers-20731
