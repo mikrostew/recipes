@@ -1,7 +1,20 @@
 ## Formatting
 
 Start looking at how to format recipes, like these for example:
-https://www.overleaf.com/latex/examples/simple-recipes-for-first-time-away-from-home-cooks/gscqdhnwzsfg#.WPYVJ4grKUk
+* https://www.overleaf.com/latex/examples/simple-recipes-for-first-time-away-from-home-cooks/gscqdhnwzsfg#.WPYVJ4grKUk
+
+There is an esoteric programming language called Chef, but it doesn't actually produce recipes - it is designed to look like a recipe, but is a stack-based general purpose language
+* http://progopedia.com/language/chef/
+* https://esolangs.org/wiki/Chef
+* https://www.dangermouse.net/esoteric/chef.html
+
+See [here](http://www.cs4fn.org/programming/recipeprogramming.php) for ideas about programming recipes
+
+There is [Toque](https://www.researchgate.net/publication/221518131_Toque_designing_a_cooking-based_programming_language_for_and_with_children), a language that looks interesting
+
+There is also [COOK](https://github.com/MichaelBarney/cook) - Looks like a language description, but there is no compiler, and no idea of what the output is
+
+
 
 
 ## Recipes I've Made
