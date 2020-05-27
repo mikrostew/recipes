@@ -21,7 +21,7 @@ Makes 12 muffins
 
 * Combine flour, sugar, salt, baking powder and baking soda. Beat egg in a measuring cup; add the oil, lemon zest, and enough buttermilk to reach the 1-cup mark. Mix into the flour mixture. Fold in blueberries. Fill muffin cups two-thirds full.
 
-* Bake for 20 minutes, or until done, rotating halfway through.
+* Bake for 20 minutes, or until done, rotating halfway through. Transfer to a wire rack to cool.
 
 ## Notes
 
