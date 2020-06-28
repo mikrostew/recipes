@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-* 2 cups flour
+* 2 cups flour, plus some for rolling out
 * 4 teaspoons baking powder
 * 1/4 teaspoon baking soda
 * 3/4 teaspoon salt
