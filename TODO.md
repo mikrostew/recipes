@@ -74,3 +74,5 @@ https://www.seriouseats.com/recipes/2015/09/toasted-kasha-salad-recipe.html
 Fig, Melon, and Spanish Ham Salad With Basil Recipe
 https://www.seriouseats.com/recipes/2015/07/fig-melon-spanish-ham-basil-salad-summer.html
 
+Different lemon ricotta pancakes
+https://www.cookingclassy.com/lemon-ricotta-pancakes/
