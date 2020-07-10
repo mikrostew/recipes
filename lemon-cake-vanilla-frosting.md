@@ -60,16 +60,27 @@ Cake:
 
 * Divide the batter between the prepared baking pans.  Bake until golden and a toothpick inserted in the center comes out clean, about 20-22 minutes, rotating the pans halfway through baking.  Let cool in the pans about 10 minutes, then invert onto a wire rack and let cool completely [how long?].
 
+
 Filling:
 
-TODO
+* Combine the mascarpone and butter in the bowl of an electric mixer.  Beat on medium-high speed until smooth and well combined.  Mix in the confectioners’ sugar and beat on low speed until incorporated.  Blend in the lemon extract and lemon zest.  Increase the speed to medium-high and beat until light and fluffy, about 2 minutes.  Transfer the mixture to a medium bowl and set aside.
 
-Icing:
+* Wipe out the mixer bowl and fit with the whisk attachment.  Add the  heavy cream to the bowl and whip on high speed until stiff peaks form [about XX mins], being careful not to overbeat [not sure when this is?].  Mix about a third of the whipped cream into the lemon-mascarpone mixture to lighten.  Gently fold in the remaining whipped cream until no streaks remain and the mixture is evenly blended.
 
-TODO
+Frosting:
+
+* Add the butter to the bowl of an electric mixer fitted with the whisk [not paddle] attachment.  Whip on medium-high speed until smooth, about 1 minute.  Add the confectioners’ sugar to the bowl and mix on medium-low speed just until incorporated.  Scrape the seeds from the vanilla bean pod into the bowl and add in the salt.  Continue to beat on medium-high speed until smooth, about 1-2 minutes.  Mix in the vanilla extract and heavy cream on low speed just until incorporated.  Increase the mixer speed and whip on high speed until light and fluffy, scraping down the bowl as needed, about 4 minutes.
+
+Candied Lemon [optional]:
+
+* Wash and dry the lemons thoroughly.  Use a sharp serrated knife to make very thin slices of lemon.  Poke out any seeds in the slices with a toothpick.  Combine the sugar and water in a medium saucepan over medium-high heat.  Heat the mixture until the sugar dissolves.  Add the lemon slices to the mixture so that they are in a single layer (none overlapping), reduce the heat to medium-low and let simmer about 20 minutes, turning the slices at least once so both sides are candied.  Remove from the heat.  Store in a container with the syrup until ready to use.
+
+Assembly:
+
+* (Level cake layers if necessary.)  To assemble the cake, place one of the layers on a serving platter.  Top with half of the lemon & mascarpone mixture and smooth in an even layer.  Place a second cake layer on top of the filling and top with the remaining filling.  Place the final cake layer on top.  Frost the top and sides of the assembled cake with the vanilla bean frosting.  Use a pastry bag with a decorative tip to pipe accents on the cake.  Garnish with the candied lemon slices.
 
 ## Notes
 
-My stand mixer bowl weighs 650g (for dividing up the batter between cake pans), so if the batter weighs 2250g, thats ~520g per pan (accounting for some waste)
+My stand mixer bowl weighs 650g, so if the whole thing weighs 2250g, thats ~520g per pan (accounting for some waste)
 
 From https://everydayannie.com/2011/08/19/lemon-layer-cake-with-vanilla-bean-frosting/
