@@ -4,7 +4,7 @@ Makes 12 muffins
 
 ## Ingredients
 
-* 1-1/2 cups all-purpose flour (can use some whole wheat)
+* 1-1/2 cups all-purpose flour (can use some whole wheat - 1/4 cup is pretty good)
 * 3/4 cup white sugar
 * 1/2 tsp salt
 * 1 tsp baking powder
@@ -19,13 +19,11 @@ Makes 12 muffins
 
 * Preheat oven to 350°F. Grease muffin cups, or line with muffin liners.
 
-* Combine flour, sugar, salt, baking powder and baking soda. Beat egg in a measuring cup; add the oil, lemon zest, and enough buttermilk to reach the 1-cup mark. Mix into the flour mixture. Fold in blueberries. Fill muffin cups two-thirds full.
+* Combine flour, sugar, salt, baking powder and baking soda. Beat egg in a measuring cup; add the oil, lemon zest, and enough buttermilk to reach the 1-cup mark. Mix into the flour mixture. Fold in blueberries. Fill muffin cups two-thirds full (1/4 cup batter per muffin is about right).
 
 * Bake for 20 minutes, or until done, rotating halfway through. Transfer to a wire rack to cool.
 
 ## Notes
-
-Next time: measure out the batter with the 1/4 cup - using the 1/3 cup was too much batter per muffin.
 
 Started with these recipes (which are very similar) and modified based on user comments:
 * [To Die For Blueberry Muffins](https://www.allrecipes.com/recipe/6865/to-die-for-blueberry-muffins/)
