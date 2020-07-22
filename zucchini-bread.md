@@ -1,45 +1,45 @@
 # zucchini bread
 
-Ingredients
+## Ingredients
 
-* 1-1/2 Cups flour (1 Cup all-purpose, 1/2 Cup whole wheat)
+* 1-1/2 cups (180g) flour (1 cup all-purpose, 1/2 cup whole wheat?)
 * 1/2 tsp salt
 * 1/2 tsp baking soda
 * 1/2 tsp baking powder
 * 1/2 Tbsp ground cinnamon
 
 * 1-1/2 eggs
-* 1/2 Cup vegetable oil
-* 1/2 Cup white sugar
-* 1/2 Cup brown sugar
+* 1/2 cup vegetable oil
+* 1/2 cup white sugar
+* 1/2 cup brown sugar
 * 1 tsp vanilla extract
 
-* 1-1/2 to 2 cups grated zucchini (250–300g)†
+* 1-1/2 to 2 cups (250–300g) grated zucchini†
 * [optional] 1/2 cup chopped nuts
 
 † _basically one large zucchini_
 
 
-Timing
+## Timing
+
+_[According to the original recipe: I didn't time this, but I bet the prep was more than 20m]_
 
 * Prep - 20m
 * Cook - 1h
 * Ready In - 1h 40m
 
-(I didn't time this, but I bet the prep was more than 20m)
+
+## Directions
+
+* Preheat oven to 325°F (165°C). Grease and flour an 8 x 4 inch pan. 
+
+* Combine flour, salt, baking powder, soda, and cinnamon in a bowl.
+
+* Beat eggs, oil, vanilla, and sugar together in another bowl. Add dry ingredients to the wet mixture (just dump it all in), and mix until combined (it will be thick). Stir in zucchini (and nuts, if using). Pour batter into prepared pan.
+
+* Bake for 50 to 60 minutes, or until done (toothpick in the center comes out clean). Cool in pan on rack for 20 minutes. Remove bread from pan, and completely cool.
 
 
-Directions
-
-Preheat oven to 325°F (165°C). Grease and flour two 8 x 4 inch pans. 
-
-Combine flour, salt, baking powder, soda, and cinnamon in a bowl.
-
-Beat eggs, oil, vanilla, and sugar together in another bowl. Add dry ingredients to the wet mixture (just dump it all in), and mix until combined (it will be thick). Stir in zucchini [and nuts]. Pour batter into prepared pan.
-
-Bake for 50 to 60 minutes, or until tester inserted in the center comes out clean. Cool in pan on rack for 20 minutes. Remove bread from pan, and completely cool.
-
-
-Notes
+## Notes
 
 * Halved this recipe: https://www.allrecipes.com/recipe/6698/moms-zucchini-bread/, reduced the sugar, and increased the zucchini.
