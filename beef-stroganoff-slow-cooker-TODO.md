@@ -11,11 +11,11 @@
 1 Tbsp Dijon
 3 cups Beef Stock, low sodium
 
-    6 oz Cream Cheese, room temperature, cut in chunks
+6 oz Cream Cheese, room temperature, cut in chunks
+1 cup Sour Cream
 
-    1 cup Sour Cream
+12 oz Egg Noodles, cooked
 
-    12 oz Egg Noodles, cooked
 
 ## Instructions
 
@@ -29,15 +29,16 @@
 
 * Cook on Low for 8 hours.
 
-    Add the cream cheese and stir to melt and combine. Place the lid back on.
+* Add the cream cheese and stir to melt and combine. Place the lid back on.
 
-    Cook the pasta to al dente. Drain, but don't rinse.
+* Cook the pasta to al dente. Drain, but don't rinse.
 
-    In a bowl, add the sour cream. Then scoop out some of the hot liquid/sauce from the crock, and stir into the sour cream. Then add another scoop and stir. Then add the mixture into the crock with the beef (this process tempers the cold sour cream so it doesn't curdle when added to the hot liquid in the crock.).
+* In a bowl, add the sour cream. Then scoop out some of the hot liquid/sauce from the crock, and stir into the sour cream. Then add another scoop and stir. Then add the mixture into the crock with the beef (this process tempers the cold sour cream so it doesn't curdle when added to the hot liquid in the crock.).
 
-    Add the noodles to the crock and gently stir.
+* Add the noodles to the crock and gently stir.
 
-    Serve hot.
+* Serve hot.
+
     
 ## Notes
 
