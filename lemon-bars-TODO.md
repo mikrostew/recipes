@@ -17,3 +17,10 @@ Dunno if I would make these again, maybe I would do one of these:
 * https://www.foodnetwork.com/recipes/ina-garten/lemon-bars-recipe-1941483
 * https://preppykitchen.com/lemon-bars/
 * https://bakingamoment.com/lemon-bars/
+
+Actually, I would probably do one of these (from https://www.thekitchn.com/lemon-bar-recipe-reviews-23012409):
+
+* https://www.foodnetwork.com/recipes/ina-garten/lemon-bars-recipe-1941483
+* https://www.foodnetwork.com/recipes/whole-lemon-bars-3785265
+* https://www.seriouseats.com/recipes/2016/03/sunny-lemon-bars-recipe.html
+* https://www.marthastewart.com/337330/creamy-lemon-squares
