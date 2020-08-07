@@ -2,38 +2,39 @@
 
 ## Ingredients
 
-* 1 Onion, large diced
-* 2 cloves Garlic, sliced
-* 2 lbs Beef Sirloin Steak (or chuck roast), cut into 1/2-inch-ish strips 
+* 1 Onion, diced
+* 2 lbs Beef Sirloin Steak (or Chuck Roast), cut into big slabs
 * 1 tsp Kosher Salt (or 1/2 tsp table salt)
 * 1/2 tsp Pepper
 * 2 Tbsp Worcestershire Sauce
 * 1 Tbsp Dijon
-* 3 cups Beef Stock, low sodium
+* 4 sprigs fresh thyme
+* 2 cups Beef Stock, low sodium
 
-* 6 oz Cream Cheese, room temperature, cut in chunks
+* 2 (.25 ounce) packets unflavored powdered gelatin (about 5 teaspoons)
 * 1 cup Sour Cream
+* 2 Tbsp unsalted butter
 
 * 12 oz Egg Noodles, cooked
 
 
 ## Instructions
 
-* Spray the crock of your slow cooker with cooking spray, and turn on low.
+* Turn slow cooker to low.
  
 * Cook the onions & garlic in olive oil over med-high heat for about 5 minutes. Add to the crock pot.
 
-* Season the beef with salt & pepper, and sear it over high heat in batches. Add to the crock pot.
+* Season the beef all over with salt & pepper, and sear it over high heat in batches. Add to the crock pot.
 
-* Add the Worcestershire sauce, dijon, and beef stock. Stir well.
+* Add the Worcestershire sauce, dijon, thyme sprigs, and beef stock. Stir well.
 
 * Cook on Low for 8 hours.
 
-* Add the cream cheese and stir to melt and combine. Place the lid back on.
-
 * Cook the pasta to al dente. Drain, but don't rinse.
 
-* In a bowl, add the sour cream. Then scoop out some of the hot liquid/sauce from the crock, and stir into the sour cream. Then add another scoop and stir. Then add the mixture into the crock with the beef (this process tempers the cold sour cream so it doesn't curdle when added to the hot liquid in the crock.).
+* Carefully pour off liquid into a heatproof cup or liquid measuring cup. Add gelatin and stir to incorporate. Add sour cream to a medium bowl. Whisking constantly, slowly pour hot liquid over sour cream and whisk until fully homogenous.
+
+* Remove the thyme sprigs. Add the liquid back into the crock with the beef.
 
 * Add the noodles to the crock and gently stir.
 
@@ -42,8 +43,10 @@
     
 ## Notes
 
-This was OK, but came out soupy instead of creamy. I want to find a better recipe for this.
+This was OK, but came out soupy instead of creamy.
 
-From https://www.reddit.com/r/slowcooking/comments/hkguus/slow_cooker_beef_stroganoff/
+From https://www.reddit.com/r/slowcooking/comments/hkguus/slow_cooker_beef_stroganoff/, and apparently they got it from https://www.simplyhappyfoodie.com/slow-cooker-beef-stroganoff/
 
-and apparently they got it from https://www.simplyhappyfoodie.com/slow-cooker-beef-stroganoff/
+Next time:
+
+I found https://www.seriouseats.com/recipes/2015/01/ultimate-beef-stroganof-recipe.html, but I don't need it that fancy - I'm using some ideas from there to change up this recipe
