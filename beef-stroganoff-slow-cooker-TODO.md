@@ -2,19 +2,19 @@
 
 ## Ingredients
 
-1 Onion, large diced
-2 cloves Garlic, sliced
-2 lbs Beef Sirloin Steak (or chuck roast), cut into 1/2-inch-ish strips 
-1 tsp Kosher Salt (or 1/2 tsp table salt)
-1/2 tsp Pepper
-2 Tbsp Worcestershire Sauce
-1 Tbsp Dijon
-3 cups Beef Stock, low sodium
+* 1 Onion, large diced
+* 2 cloves Garlic, sliced
+* 2 lbs Beef Sirloin Steak (or chuck roast), cut into 1/2-inch-ish strips 
+* 1 tsp Kosher Salt (or 1/2 tsp table salt)
+* 1/2 tsp Pepper
+* 2 Tbsp Worcestershire Sauce
+* 1 Tbsp Dijon
+* 3 cups Beef Stock, low sodium
 
-6 oz Cream Cheese, room temperature, cut in chunks
-1 cup Sour Cream
+* 6 oz Cream Cheese, room temperature, cut in chunks
+* 1 cup Sour Cream
 
-12 oz Egg Noodles, cooked
+* 12 oz Egg Noodles, cooked
 
 
 ## Instructions
@@ -42,6 +42,8 @@
     
 ## Notes
 
+This was OK, but came out soupy instead of creamy. I want to find a better recipe for this.
+
 From https://www.reddit.com/r/slowcooking/comments/hkguus/slow_cooker_beef_stroganoff/
 
-and apparently they got it from simplyhappyfoodie.com (TODO find that link)
+and apparently they got it from https://www.simplyhappyfoodie.com/slow-cooker-beef-stroganoff/
