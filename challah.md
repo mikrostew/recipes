@@ -1,25 +1,5 @@
 # Challah
 
-Adapted from many other recipes:
-* https://cooking.nytimes.com/recipes/6697-my-favorite-challah
-* https://smittenkitchen.com/2008/09/best-challah-egg-bread/
-* https://www.thekitchn.com/how-to-make-challah-bread-181004
-* https://www.allrecipes.com/recipe/6760/challah-i/
-* https://www.kingarthurflour.com/recipes/classic-challah-recipe
-
-### Notes
-
-This uses about 1% yeast, which seems to be [standard for dry yeast](http://www.thefreshloaf.com/node/23085/yeast-percentages). Could also try this with fresh yeast, if I can find [where to buy it](https://food52.com/hotline/7533-where-should-i-buy-fresh-yeast).
-
-TODO: bake with [steam in the oven](http://eshet-chayil-shop.blogspot.com/2012/06/how-to-bake-challah-bread.html)
-
-TODO: read more articles about challah, why not...
-* http://thehomemakerscupboard.blogspot.com/2011/01/butter-based-challah-for-shabbat.html
-* https://prettysimplesweet.com/perfect-challah/
-* https://www.epicurious.com/recipes/food/views/challah-51220210
-* https://toriavey.com/how-to/challah-bread-part-1-the-blessing-and-the-dough/
-
-
 Time: 4 hours (about 1 1/2 hours working plus 2 1/2 hours rising)
 
 Yield: 1 loaf
@@ -71,8 +51,28 @@ Yield: 1 loaf
 
 ### Bake (30-40 minutes)
 
-* [ ] Preheat oven to *375°F* and brush loaves again. Sprinkle bread with **seeds**, if using. (If freezing, remove from freezer 5 hours before baking.)
+* [ ] Place a tray of water (about 3 cups) on the lowest rack before preheating. Put the empty tray in first, then add water, to avoid sloshing water out of the tray.
+* [ ] Preheat oven to *375°F* and brush loaves with the egg white glaze again. Sprinkle bread with **seeds**, if using. (If freezing, remove from freezer 5 hours before baking.)
 * [ ] Place the baking sheet atop another baking sheet (to insulate the bottom crust, and keep it from browning too much). Bake in middle of oven for 30 to 40 minutes, rotating halfway through. Once it hits deep golden brown, can tent loosely with aluminum foil. Bread is done when it registers *190°F* in the center.
+* [ ] Cool loaf on a rack.
 
-Cool loaf on a rack.
 
+### Notes
+
+This uses about 1% yeast, which seems to be [standard for dry yeast](http://www.thefreshloaf.com/node/23085/yeast-percentages). Could also try this with fresh yeast, if I can find [where to buy it](https://food52.com/hotline/7533-where-should-i-buy-fresh-yeast).
+
+Baking with steam in the oven should (hopefully) give a nice crust without drying out the crumb.
+
+Adapted from many other recipes:
+* https://cooking.nytimes.com/recipes/6697-my-favorite-challah
+* https://smittenkitchen.com/2008/09/best-challah-egg-bread/
+* https://www.thekitchn.com/how-to-make-challah-bread-181004
+* https://www.allrecipes.com/recipe/6760/challah-i/
+* https://www.kingarthurflour.com/recipes/classic-challah-recipe
+* http://eshet-chayil-shop.blogspot.com/2012/06/how-to-bake-challah-bread.html
+
+TODO: check out more articles about challah, why not...
+* http://thehomemakerscupboard.blogspot.com/2011/01/butter-based-challah-for-shabbat.html
+* https://prettysimplesweet.com/perfect-challah/
+* https://www.epicurious.com/recipes/food/views/challah-51220210
+* https://toriavey.com/how-to/challah-bread-part-1-the-blessing-and-the-dough/
