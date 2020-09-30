@@ -30,3 +30,8 @@ Pretty good pancakes that use meringue instead of chemical leavening.
 I made a double batch for the 3 of us, and that was about right.
 
 From https://www.seriouseats.com/recipes/2012/09/baking-out-loud-lemon-ricotta-pancakes-recipe.html (the original doesn't mention when to add the flour - that's in the comments)
+
+I should also try lemon ricotta pancakes from food wishes:
+* https://www.youtube.com/watch?v=8ttSBO0SnsU
+* https://foodwishes.blogspot.com/2017/03/lemon-ricotta-pancakes-again.html
+* https://www.allrecipes.com/recipe/257657/lemon-ricotta-pancakes/
