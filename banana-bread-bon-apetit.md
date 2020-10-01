@@ -1,5 +1,7 @@
 # banana bread
 
+Makes a dense loaf of bread
+
 ## Ingredients
 
 * 1-1/2 cups (195g) all-purpose flour
