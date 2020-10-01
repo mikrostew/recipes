@@ -4,8 +4,8 @@ Makes 12 muffins
 
 ## Ingredients
 
-* 1-1/2 cups all-purpose flour (can use some whole wheat - 1/4 cup is pretty good)
-* 3/4 cup white sugar
+* 1-1/2 cups (180g) all-purpose flour (can use some whole wheat)
+* 3/4 cup (75g) white sugar
 * 1/2 tsp salt
 * 1 tsp baking powder
 * 1 tsp baking soda
@@ -13,7 +13,7 @@ Makes 12 muffins
 * 1/3 cup vegetable oil (or melted butter)
 * zest from 1 lemon
 * 1/2-ish cup buttermilk
-* 1 cup fresh blueberries (or thawed from frozen)
+* 1 cup (150g) fresh blueberries (or thawed from frozen)
 
 ## Directions
 
