@@ -6,12 +6,12 @@
 * 1/2 tsp salt
 * 1/2 tsp baking soda
 * 1/2 tsp baking powder
-* 1/2 Tbsp ground cinnamon
+* 1/2 Tbsp (1-1/2 tsp) ground cinnamon
 
 * 1-1/2 eggs
 * 1/2 cup vegetable oil
-* 1/2 cup white sugar
-* 1/2 cup brown sugar
+* 1/2 cup (100g) white sugar
+* 1/2 cup (100g) brown sugar, packed
 * 1 tsp vanilla extract
 
 * 1-1/2 to 2 cups (250–300g) grated zucchini†
@@ -22,9 +22,7 @@
 
 ## Timing
 
-_[According to the original recipe: I didn't time this, but I bet the prep was more than 20m]_
-
-* Prep - 20m
+* Prep - 30m
 * Cook - 1h
 * Ready In - 1h 40m
 
