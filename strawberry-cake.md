@@ -1,10 +1,10 @@
 # strawberry cake
 
-Make the strawberry reduction first, ahead of time
+Make the strawberry reduction and the frosting on Thursday, ahead of time
 
-Then make the cake itself the day before
+Then make the cake itself the day before on Friday
 
 
 ## Notes
 
-From https://www.lifeloveandsugar.com/homemade-strawberry-cake-recipe/
+From https://sallysbakingaddiction.com/strawberry-cake/
