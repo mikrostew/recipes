@@ -19,3 +19,5 @@
 ## Notes
 
 Based on [Alton Brown's recipe](https://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe-2041990) and the [white lily flour recipe](https://www.whitelily.com/recipes/white-lily-light-and-fluffy-biscuits-3790)
+
+I've seen some other recipes that advise freezing the butter for a bit then grating it, like [this one](https://sugarspunrun.com/easy-homemade-biscuits/), but it doesn't come out any different when I've tried that. And it just gets more things dirty.
