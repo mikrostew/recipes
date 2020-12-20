@@ -1,4 +1,6 @@
-# butter chicken (from Bon Appetit at Linkedin)
+# butter chicken
+
+From Bon Appétit at Linkedin
 
 ## Yogurt Marinade for Chicken
 
