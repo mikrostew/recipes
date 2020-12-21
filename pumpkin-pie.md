@@ -1,49 +1,38 @@
 # pumpkin pie
 
-* From [the original Libby's recipe on the pumpkin can](https://www.verybestbaking.com/recipes/18470/LIBBYS-Famous-Pumpkin-Pie)
+## Ingredients
 
-### Notes
-
-Serves: many people, or 1 very hungry person
-
-Total time: TODO - 1 hr 5 mins to bake
-
-### Ingredients
-
-* [ ] 3/4 cup granulated sugar
+* [ ] 1 unbaked 9-inch (4-cup volume) deep-dish frozen pie crust
+* [ ] 1 egg white
+* [ ] 2 large eggs + 1 egg yolk
+* [ ] 1 can (15 oz) pumpkin puree
+* [ ] 3/4 cup (150g) granulated sugar
 * [ ] 1 teaspoon ground cinnamon
-* [ ] 1/2 teaspoon salt
 * [ ] 1/2 teaspoon ground ginger
 * [ ] 1/4 teaspoon ground cloves
-* [ ] 2 large eggs
-* [ ] 1 can (15 oz.) Pumpkin
-* [ ] 1 can (12 fl. oz.) Evaporated Milk
-* [ ] 1 unbaked 9-inch (4-cup volume) deep-dish pie shell
-* [ ] Whipped cream (optional)
+* [ ] 1/2 teaspoon kosher salt
+* [ ] 1 can (12 fl oz) evaporated milk
 
-### Equipment
+## Pre-Bake the Crust
 
-* [ ] Small bowl
-* [ ] Large bowl
+* Position a rack in the center of the oven and preheat the oven to 350°F. Line a half sheet pan with parchment paper.
 
-### Prep (XX mins)
+* Place the frozen crust, in the center of the pan. Cover the crust with foil, making sure the crimped edges are completely covered and that there are no gaps between the foil and the crust. Fill with pie weights.
 
-* [ ] Make or buy a 9" deep pie crust.
-* [ ] Mix sugar, cinnamon, salt, ginger and cloves in small bowl.
-* [ ] Beat eggs in large bowl.
-* [ ] Stir in pumpkin and sugar-spice mixture.
-* [ ] Gradually stir in evaporated milk.
-* [ ] Pour into pie shell.
+* Bake for 30 minutes.
 
-### Bake (15 mins)
+* In a small bowl, whisk together the egg white and water.
 
-* [ ] Preheat oven to *425°F*.
-* [ ] Bake for 15 minutes.
+* Carefully remove the pie weights and foil. Coat the bottom and sides of the pie crust with a thin layer of egg wash. Bake, uncovered, for an additional 5 minutes. Set aside on a wire rack to cool slightly.
 
-### Bake (40 mins)
+## Make the Pie
 
-* [ ] Reduce temperature to *350°F*
-* [ ] Bake for 40 minutes or until knife inserted near center comes out clean.
+* In a medium bowl, whisk together the eggs, egg yolk, and pumpkin puree. Whisk in the sugar, cinnamon, ginger, cloves, and salt. Slowly add the evaporated milk and whisk to combine. Pour the mixture into the pre baked pie crust.
 
+* Bake for 50-55 minutes, or until the edges are set and the center of the pie just slightly jiggles. Cool on a wire rack.
 
-Cool on wire rack for 2 hours. Serve immediately or refrigerate. Top with whipped cream before serving.
+* Serve slightly warm or at room temperature with whipped cream. Cover tightly in plastic wrap and refrigerate for 2 more days.
+
+## Notes
+
+From https://www.hummingbirdhigh.com/2020/11/libbys-pumpkin-pie-recipe-elevated.html, which takes the [original Libby's recipe](https://www.verybestbaking.com/libbys/recipes/libby-s-famous-pumpkin-pie/) and improves it - pre-bake the crust and seal with egg wash, then bake at a consistent temp
