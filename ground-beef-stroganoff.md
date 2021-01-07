@@ -13,7 +13,7 @@ Made in one skillet
 * [ ] 1 tsp paprika
 * [ ] 1/4 cup wine (sherry, or whatever)
 * [ ] 4 cups beef stock
-* [ ] 1 tsp salt
+* [ ] 1 Tbsp better than bullion beef
 * [ ] 8 oz (4 cups) dry egg noodles
 * [ ] 1/2 to 3/4 cup sour cream
 * [ ] 1/4 cup parsley, chopped
@@ -26,7 +26,7 @@ Made in one skillet
 
 * Stir in the flour and paprika and cook for about a minute. Add the wine and stir, scraping any browned bits from the pan, cooking until mostly evaporated.
 
-* Gradually stir in the beef stock, and season with salt. Bring mixture to a boil and add the egg noodles. Reduce heat to a simmer and cover. Stir occasionally until noodles are tender, about 8 to 10 minutes. Return the mushrooms to the skillet and stir to combine.
+* Gradually stir in the beef stock and bullion, and season with salt. Bring mixture to a boil and add egg noodles. Reduce heat to a simmer and cover. Stir occasionally until noodles are tender, about 8 to 10 minutes. Return the mushrooms to the skillet and stir to combine.
 
 * Stir in the sour cream, to taste, and and freshly chopped parsley. Season to taste with salt and pepper. Serve warm and enjoy!
 
