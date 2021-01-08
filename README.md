@@ -12,4 +12,8 @@
 
 ## Dinner
 
+* [Chicken Rice Casserole](markdown/chicken-rice-casserole.md)
+* [Chili](markdown/chili.md)
+* [Ground Beef Stroganoff](markdown/ground-beef-stroganoff.md)
+
 ## Desserts
