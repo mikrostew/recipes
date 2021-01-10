@@ -62,6 +62,7 @@
 * [Banana Bread (From Mom)](markdown/banana-bread-from-mom.md)
 * [Buttermilk Quick Bread (with variations)](markdown/buttermilk-quick-bread.md)
 * [Cranberry Nut Bread](markdown/cranberry-nut-bread.md)
+* [Sour Cream Pound Cake](markdown/sour-cream-pound-cake.md)
 * [Zucchini Bread](markdown/zucchini-bread.md)
 
 ## Spice Mixes
