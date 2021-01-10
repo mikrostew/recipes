@@ -2,20 +2,18 @@
 
 ## Ingredients
 
-* 1-1/2 cups (180g) flour (1 cup all-purpose, 1/2 cup whole wheat?)
-* 1/2 tsp salt
-* 1/2 tsp baking soda
-* 1/2 tsp baking powder
-* 1/2 Tbsp (1-1/2 tsp) ground cinnamon
-
-* 1-1/2 eggs
-* 1/2 cup vegetable oil
-* 1/2 cup (100g) white sugar
-* 1/2 cup (100g) brown sugar, packed
-* 1 tsp vanilla extract
-
-* 1-1/2 to 2 cups (250–300g) grated zucchini†
-* [optional] 1/2 cup chopped nuts
+* [ ] 1-1/2 cups (180g) flour (1 cup all-purpose, 1/2 cup whole wheat?)
+* [ ] 1/2 tsp salt
+* [ ] 1/2 tsp baking soda
+* [ ] 1/2 tsp baking powder
+* [ ] 1/2 Tbsp (1-1/2 tsp) ground cinnamon
+* [ ] 1-1/2 eggs
+* [ ] 1/2 cup vegetable oil
+* [ ] 1/2 cup (100g) white sugar
+* [ ] 1/2 cup (100g) brown sugar, packed
+* [ ] 1 tsp vanilla extract
+* [ ] 1-1/2 to 2 cups (250–300g) grated zucchini†
+* [ ] [optional] 1/2 cup chopped nuts
 
 † _basically one large zucchini_
 
