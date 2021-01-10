@@ -5,7 +5,7 @@
 * 1-1/2 lbs (24 oz) ground beef
 * 4 pocketless pitas (can be frozen)
 * 1/2 cup Labneh Cheese (Creme Kefir)
-* 2 Tbsp [Za'atar Seasoning](./zaatar-seasoning.md)
+* 2 Tbsp [Za'atar Spice](./zaatar-spice.md)
 * 1 Tbsp apple cider vinegar
 * 1/2 cup beef stock (beef, chicken, veg, whatever - even water is fine really)
 * 2 cloves garlic, zested into a paste
