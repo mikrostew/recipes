@@ -66,8 +66,9 @@
 * [Sour Cream Pound Cake](markdown/sour-cream-pound-cake.md)
 * [Zucchini Bread](markdown/zucchini-bread.md)
 
-## Spice Mixes
+## Spices and Sauces
 
+* [2-Minute Hollandaise](markdown/hollandaise.md)
 * [Taco Seasoning](markdown/taco-seasoning.md)
 * [Za'atar Spice](markdown/zaatar-spice.md)
 
