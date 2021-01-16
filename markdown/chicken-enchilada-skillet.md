@@ -24,6 +24,8 @@ Optional Toppings
 * [ ] avocado
 * [ ] diced tomato
 
+<img src="/img/chicken-enchilada-prep.jpg?raw=true" alt="ingredient prep" width="1024"/>
+
 ## Directions
 
 * Season chicken thighs with salt, pepper, cumin, chili, and oregano. Sauté in a large skillet over medium-high heat with garlic and pepper until the chicken thighs are lightly browned and cooked through.
