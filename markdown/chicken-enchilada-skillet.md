@@ -4,17 +4,17 @@ With black beans and cheese
 
 ## Ingredients
 
+* [ ] 1 clove garlic, minced
+* [ ] 1 poblano pepper, diced
 * [ ] 1 1/2 lbs boneless skinless chicken thighs, cut into bite-size pieces
 * [ ] 1 tsp cumin
 * [ ] 1 tsp chili powder
 * [ ] 1/2 tsp oregano
-* [ ] 1 clove garlic, minced
-* [ ] 1 poblano pepper, diced
 * [ ] 15 oz canned black beans, rinsed and drained
-* [ ] 1 1/2 cups red enchilada sauce
+* [ ] 1 1/2 cups (14 oz jar) red enchilada sauce
 * [ ] 1/2 cup salsa
 * [ ] 6 small wheat tortillas, cut into strips
-* [ ] 1 cup shredded shredded
+* [ ] 1 cup shredded cheese
 
 Optional Toppings
 
