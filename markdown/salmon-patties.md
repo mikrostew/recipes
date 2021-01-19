@@ -33,3 +33,7 @@ There are a bunch of similar-ish recipes out there:
 * random blogs from google search
 
 I don't even remember what exactly I made last time, since aside from the main salmon/onion/egg/breadcrumbs you can put whatever you want in there. They're pretty forgiving.
+
+If using some tuna, probably need an extra egg to get them to bind better.
+
+Easy dip for these: mayo + relish + mustard, kind of a simple tartar sauce.
