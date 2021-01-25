@@ -27,6 +27,7 @@
 * [Ground Beef Stroganoff](markdown/ground-beef-stroganoff.md)
 * [Lobster Mac and Cheese](markdown/lobster-mac-and-cheese.md)
 * [Shepherd's Pie](markdown/shepherds-pie.md)
+* [Sloppy Joes](markdown/sloppy-joes.md)
 * [Spiced Beef Wraps](markdown/spiced-beef-wraps.md)
 * [Turkey Burgers](markdown/turkey-burgers.md)
 * [Turkey Meatballs in Tomato Sauce (TODO)](markdown/turkey-meatballs-in-tomato-sauce-TODO.md)
