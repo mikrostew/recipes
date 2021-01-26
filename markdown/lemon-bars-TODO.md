@@ -1,5 +1,26 @@
 # lemon bars
 
+## Ingredients
+
+For the Crust:
+
+* [ ] 1 cup (130g) all-purpose flour
+* [ ] 1/2 cup (60g) powdered sugar
+* [ ] 1/4 teaspoon (1g) kosher salt
+* [ ] 1 tablespoon (4g) lemon zest
+* [ ] 1 stick (115g) cold unsalted butter, cut into 1/4-inch dice
+
+For the Custard:
+
+* [ ] 3 large eggs, cold
+* [ ] 1/2 cup (135g) egg yolks, from about 8 large eggs
+* [ ] 1 1/3 cups (270g) granulated sugar
+* [ ] Pinch of kosher salt
+* [ ] 1 packed tablespoon (8g) lemon zest
+* [ ] 1 1/3 cups (310g) lemon juice, from about 8 large lemons
+
+
+
 ## Notes
 
 I made these: https://www.onceuponachef.com/recipes/luscious-lemon-squares.html, they were ok
