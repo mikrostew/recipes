@@ -27,4 +27,6 @@
 
 ## Notes
 
+**Next time:** instead of ketchup, use the full 6oz tomato paste can, plus 1/4 to 1/3 cup apple cider or white vinegar, and probably an extra Tbsp or 2 of brown sugar
+
 From https://www.thechunkychef.com/best-homemade-sloppy-joes/
