@@ -31,4 +31,4 @@
 
 ## Notes
 
-* Halved this recipe: https://www.allrecipes.com/recipe/6698/moms-zucchini-bread/, reduced the sugar, and increased the zucchini.
+Halved [this recipe](https://www.allrecipes.com/recipe/6698/moms-zucchini-bread/), reduced the sugar, and increased the zucchini.
