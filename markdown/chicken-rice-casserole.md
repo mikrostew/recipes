@@ -13,12 +13,12 @@ Without using cans of soup
 * [ ] 2 cups chicken stock
 * [ ] 1/2 cup milk (whole, 2%, whatever)
 * [ ] 3/4 teaspoon freshly ground black pepper, divided
-* [ ] 4 chicken thighs, deboned, skin on, trimmed
+* [ ] 4 chicken thighs, deboned, skin on, trimmed (or chicken apple sausage, cut into rounds)
 * [ ] 1/2 cup shredded cheddar cheese (4 ounces)
 
 ## Directions
 
-* Preheat oven to 375°F. Coat an 11x8-inch baking dish with cooking spray. Place rice then frozen vegetables in the dish. Set aside.
+* Preheat oven to 375°F. Coat an 11x8-inch baking dish (NOT 9x13) with cooking spray. Place rice then frozen vegetables in the dish. Set aside.
 
 * Melt butter in a large skillet over medium heat. Sauté the onion with salt until onion is soft but not browned, 3 to 5 minutes.
 
