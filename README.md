@@ -43,7 +43,7 @@
 * [Devil's Food Cupcakes](markdown/devils-food-cupcakes.md)
 * [Donuts (TODO)](markdown/donuts-TODO.md)
 * [Ice Cream (TODO)](markdown/ice-cream-TODO.md)
-* [Lemon Bars (TODO)](markdown/lemon-bars-TODO.md)
+* [Lemon Bars](markdown/lemon-bars.md)
 * [Lemon Cake with Vanilla Bean Frosting](markdown/lemon-cake-vanilla-frosting.md)
 * [Lemon Meringue Pie (TODO)](markdown/lemon-meringue-pie-TODO.md)
 * [Old Fashioned Pie Crust](markdown/old-fashioned-pie-crust.md)
