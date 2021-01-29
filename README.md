@@ -19,6 +19,7 @@
 
 ## Dinner
 
+* [BBQ Chicken](markdown/bbq-chicken.md)
 * [Beef Bulgogi Bowls (TODO)](markdown/bulgogi-bowls-TODO.md)
 * [Butter Chicken (TODO)](markdown/butter-chicken-TODO.md)
 * [Chicken Enchilada Skillet](markdown/chicken-enchilada-skillet.md)
