@@ -9,11 +9,11 @@ Yield: 1 loaf
 * [ ] 1 package (7g) active dry yeast
 * [ ] 7/8 Cup lukewarm water (about 100°F - microwave cold water for 30 seconds)
 * [ ] 1/2 Tbsp (7g) granulated sugar
-* [ ] 1/4 Cup (60 ml) olive or vegetable oil, plus more for greasing the bowl
+* [ ] 1/4 Cup (60 ml; 55g) olive or vegetable oil, plus more for greasing the bowl
 * [ ] 2 large eggs
 * [ ] 1 large egg, separated
 * [ ] 1/4 Cup (50g) granulated sugar
-* [ ] 1/2 Tbsp (7g) table salt
+* [ ] 1/2 Tbsp (7g) salt
 * [ ] ~ 4 1/4 Cups (520g) all-purpose flour
 * [ ] 1/2 cup raisins (optional)
 * [ ] Poppy or sesame seeds (optional)
@@ -24,7 +24,7 @@ Yield: 1 loaf
 
 * Whisk in **oil**. Beat in 2 **eggs** and **yolk**, one at a time. Mix in remaining **sugar** and **salt**. Gradually add **flour**. When dough holds together, it is ready for kneading.
 
-* Turn dough onto a floured work surface. Knead dough until smooth (5-10 minutes). The dough has finished kneading when it is soft, smooth, and holds a ball shape.
+* Turn dough onto a floured work surface. Knead dough until smooth (5-10 minutes), adding flour as needed to get it tacky. The dough has finished kneading when it is soft, smooth, and holds a ball shape.
 
 ### First & Second Rise
 
