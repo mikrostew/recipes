@@ -7,12 +7,13 @@
 * 1 lb ground turkey
 * 1/2 cup dry breadcrumbs (or almond flour)
 * 3 tablespoons onions, minced (or ~1 Tbsp onion powder)
+* 3 tablespoons olive oil (or vegetable oil)
 * 2 tablespoons ketchup
 * 1 tablespoon lemon juice
 * 1 teaspoon Worcestershire sauce
 * 1 teaspoon soy sauce
 * 1/4 teaspoon paprika
-* 2 garlic cloves, minced (or 1/4 tsp garlic powder)
+* 2 garlic cloves, minced (or 1/4 tsp garlic powder) (optional)
 * 1/4 teaspoon liquid red pepper seasoning (optional)
 * black pepper, to taste (~6 grinds)
 * 2 big pinches of salt
@@ -30,6 +31,6 @@ Serve in hamburger buns with toppings.
 
 ## Notes
 
-My favorite toppings: lettuce, tomato, relish, ketchup, sun dried tomato, avocado
+My favorite toppings: lettuce, tomato, relish, ketchup, bbq sauce, mustard, sun dried tomato, avocado
 
 From http://www.food.com/recipe/tasty-turkey-burgers-20731
