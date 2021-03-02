@@ -26,6 +26,7 @@
 * [Chicken Parmesan](markdown/chicken-parmesan.md)
 * [Chicken Rice Casserole](markdown/chicken-rice-casserole.md)
 * [Chili](markdown/chili.md)
+* [Coconut Shrimp + Dipping Sauce](markdown/coconut-shrimp.md)
 * [Ground Beef Stroganoff](markdown/ground-beef-stroganoff.md)
 * [Lobster Mac and Cheese](markdown/lobster-mac-and-cheese.md)
 * [Shepherd's Pie](markdown/shepherds-pie.md)
