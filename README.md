@@ -23,7 +23,7 @@
 * [Beef Bulgogi Bowls](markdown/beef-bulgogi-bowls.md)
 * [Butter Chicken (TODO)](markdown/butter-chicken-TODO.md)
 * [Chicken Enchilada Skillet](markdown/chicken-enchilada-skillet.md)
-* [Chicken Parmesan](markdown/chicken-parmesan.md)
+* [Chicken Parmesan](markdown/chicken-parm.md)
 * [Chicken Rice Casserole](markdown/chicken-rice-casserole.md)
 * [Chili](markdown/chili.md)
 * [Coconut Shrimp + Dipping Sauce](markdown/coconut-shrimp.md)
