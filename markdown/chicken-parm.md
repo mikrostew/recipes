@@ -23,4 +23,6 @@
 
 ## Notes
 
+Alternatively, just continue cooking in the pan instead of transferring to the oven. Dump out the hot oil first though, into a metal bowl.
+
 From https://www.foodnetwork.com/recipes/bobby-flay/chicken-parmigiana-recipe-1952359, but without making tomato sauce from scratch. I don't have time for that.
