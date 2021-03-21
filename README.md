@@ -13,6 +13,7 @@
 
 ## Lunch
 
+* [Deviled Eggs](markdown/deviled-eggs.md)
 * [Macaroni and Cheese (one pan)](markdown/macaroni-and-cheese-one-pan.md)
 * [Salmon Patties](markdown/salmon-patties.md)
 * [Tuna Noodle Casserole](markdown/tuna-noodle-casserole.md)
