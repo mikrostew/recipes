@@ -82,5 +82,5 @@
 
 ## Jewish Foods
 
-* [Charoset](markdown/charoset-TODO.md)
+* [Charoset](markdown/charoset.md)
 * [Latkes (TODO)](latkes-TODO.md)
