@@ -5,12 +5,12 @@ For passover
 ## Ingredients
 
 * 3 medium Gala and Granny Smith apples, peeled and finely diced (by hand, not food proc)
-* 1 1/2 cups walnut halves, toasted (275° for 25 mins), and coarsely chopped
-* 1/2 cup sweet red wine
-* juice from 1/2 a lemon
+* 1 1/2 cups walnut halves, toasted (275° for 20 mins), and coarsely chopped
+* 1/2 cup sweet red wine (or red wine + honey to taste)
+* 1 Tbsp lemon juice
 * zest of one orange
-* 1 1/2 teaspoons ground cinnamon
-* 1 tablespoon packed brown sugar
+* 1 1/2 tsp ground cinnamon
+* 1 Tbsp packed brown sugar
 
 ## Directions
 
