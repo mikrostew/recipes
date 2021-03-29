@@ -22,6 +22,7 @@
 
 * [BBQ Chicken](markdown/bbq-chicken.md)
 * [Beef Bulgogi Bowls](markdown/beef-bulgogi-bowls.md)
+* [Braised Lamb Shanks](markdown/braised-lamb-shanks.md)
 * [Butter Chicken (TODO)](markdown/butter-chicken-TODO.md)
 * [Chicken Enchilada Skillet](markdown/chicken-enchilada-skillet.md)
 * [Chicken Parmesan](markdown/chicken-parm.md)
