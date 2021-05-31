@@ -2,15 +2,16 @@
 
 ## Ingredients
 
-* 4 pocketless pitas (can be frozen)
-* 1/2 onion, diced
-* 1-1/2 lbs (24 oz) ground beef
-* 1 Tbsp apple cider vinegar
-* 2 Tbsp [Za'atar Spice](./zaatar-spice.md)
-* 1/2 cup beef stock
-* 1 Tbsp better-than-bullion beef
-* 1/2 cup Labneh Cheese (Creme Kefir)
-* 2 cloves garlic, zested into a paste [optional]
+* [ ] 4 pocketless pitas (can be frozen)
+* [ ] 1/2 onion, diced
+* [ ] 1-1/2 lbs (24 oz) ground beef
+* [ ] 1 Tbsp apple cider vinegar
+* [ ] 2 Tbsp [Za'atar Spice](./zaatar-spice.md)
+* [ ] 1/2 cup beef stock
+* [ ] 1 Tbsp better-than-bullion beef
+* [ ] 1/2 cup Labneh Cheese (Creme Kefir)
+* [ ] 2 cloves garlic, zested into a paste [optional]
+* [ ] shredded lettuce [optional]
 
 
 ## Directions
