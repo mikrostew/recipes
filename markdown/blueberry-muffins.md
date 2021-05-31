@@ -31,6 +31,8 @@ Started with these recipes (which are very similar) and modified based on user c
 * [To Die For Blueberry Muffins](https://www.allrecipes.com/recipe/6865/to-die-for-blueberry-muffins/)
 * [Whole Wheat Blueberry Muffins](https://www.allrecipes.com/recipe/218614/whole-wheat-blueberry-muffins/)
 
+TODO: do this with less sugar next time
+
 Do buttermilk substitues work?
 * <https://www.seriouseats.com/how-to-substitute-buttermilk>
 * <https://thecakeblog.com/2014/09/cake-baking-science.html>
