@@ -35,9 +35,18 @@ The [video linked from the FN article](https://www.youtube.com/watch?v=UHD__Hkfe
 * push biscuits down in the center with your thumb, to get an even rise
 * bake in a 400°F oven, until golden
 
-That clip comes from Good Eats S1 E7, "[The Dough Also Rises](https://www.youtube.com/watch?v=LR6DWOa4ejs)"
+That clip comes from Good Eats S1 E7, "[The Dough Also Rises](https://www.youtube.com/watch?v=LR6DWOa4ejs)" (but it is edited from the original). Notes on the full episode:
 * use soft southern wheat, or 3 parts all purpose : 1 part cake flour
 * mix of shortening and butter, for tenderness and flavor
+* can use self-rising flour if you want
+* can sift the flour, to possibly make a lighter biscuit
+* cut in the fat with a pastry cutter, spoon, or just use your fingers - work it in until you have something like cornmeal, or bread crumbs
+* you're looking for a very wet dough, if it looks sticky and nasty you're on the right track
+* for a neater kitchen you can put things together on parchment paper
+* tip: go to your local restaurant supply store and get a heavy duty half-sheet aluminum baking pan, which won't burn biscuit bottoms like non-stick or dark pans
+* after cutting the first biscuits, rework the dough as little as possible
+* biscuits get volume from steam and the CO2 from the chemical leaveners - acid + alkaline = gas, and double-acting baking powder has both, so it reacts once when wet, then again when hot
+* a lot of ingredients throw off the balance, so we add baking soda to counteract the added acidity
 
 
 I've seen some other recipes that advise freezing the butter for a bit then grating it, like [this one](https://sugarspunrun.com/easy-homemade-biscuits/), but it doesn't come out any different when I've tried that. And it just gets more things dirty.
