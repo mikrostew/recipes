@@ -1,4 +1,7 @@
-# banana bread
+# banana bread [deprecated]
+
+| _Deprecated in favor of [this banana bread](./banana-bread.md)_ |
+| --- |
 
 Makes a dense loaf of bread
 
