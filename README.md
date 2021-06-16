@@ -67,8 +67,7 @@
 
 ## Quick Breads
 
-* [Banana Bread (Bon Apetit)](markdown/banana-bread-bon-apetit.md)
-* [Banana Bread (From Mom)](markdown/banana-bread-from-mom.md)
+* [Banana Bread](markdown/banana-bread.md)
 * [Buttermilk Quick Bread (with variations)](markdown/buttermilk-quick-bread.md)
 * [Cranberry Nut Bread](markdown/cranberry-nut-bread.md)
 * [Sour Cream Pound Cake](markdown/sour-cream-pound-cake.md)
