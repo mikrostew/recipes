@@ -2,20 +2,20 @@
 
 ## Ingredients
 
-* [ ] 2 tablespoons extra-virgin olive oil divided
+* [ ] 2 tablespoons olive oil, divided
 * [ ] 4 - 6 lamb shanks, trimmed of excess fat
-* [ ] 1 large white onion diced
-* [ ] 6 cloves garlic minced
-* [ ] 2 large carrots sliced 1/2-inch thick
+* [ ] 1 large white onion, diced
+* [ ] 6 cloves garlic, minced
+* [ ] 2 large carrots, sliced 1/2-inch thick
 * [ ] 1 pinch coarse salt and freshly ground pepper
 * [ ] 1/4 cup flour
 * [ ] 2 cups beef stock
-* [ ] 1 1/2 cups red wine like Merlot Pinot Noir, or a Chianti -- optional. Substitute with extra stock).
+* [ ] 1 1/2 cups red wine (like Merlot Pinot Noir, or a Chianti -- optional, substitute with extra stock).
 * [ ] 14 oz (400 g) passata (tomato puree or American tomato sauce)
 * [ ] 2 tablespoons tomato paste
-* [ ] 2 beef bouillon cubes crushed
-* [ ] 1 teaspoon fresh rosemary finely chopped
-* [ ] 2 tablespoons fresh parsley finely chopped (divided)
+* [ ] 2 beef bouillon cubes, crushed
+* [ ] 1 teaspoon fresh rosemary, finely chopped
+* [ ] 2 tablespoons fresh parsley, finely chopped ,divided
 * [ ] 2 bay leaves
 * [ ] Salt and pepper to taste
 
@@ -23,25 +23,25 @@
 
 OVEN METHOD:
 
-    Preheat oven to 350°F (175°C).
-    Wash and pat dry lamb shanks with paper towel.
-    Heat 1 tablespoon of oil in a heavy based pot over medium-high heat. Sear two shanks in the hot oil until browned on all sides. Repeat with remaining shanks and oil. 
-    Transfer to a plate, tent with foil to keep warm, set aside.
-    To the pan juices, sauté the carrots and diced onions until softened, (about 3 minutes), then add garlic and cook for 1 minute.
-    Return the shanks back into the pot; season with 1 teaspoon coarse salt and 1/2 teaspoon ground pepper. Sprinkle with flour, toss well and cook for 4-5 minutes to brown the flour.
-    Add stock, wine, puree, tomato paste, bouillon and herbs. Bring to a simmer on the stove.
-    Cover, transfer to lower part of the oven and cook for 2 1/2 hours, or until the meat is fall apart tender (adjust the heat so that the liquid simmers very slowly).
-    Gently transfer the shanks onto a plate; tent to keep warm.
-    Discard the bay leaves from the sauce and place pot onto stove. Simmer sauce over medium heat until thickened to your desired consistency. 
-    OPTIONAL: skim off any additional fat which rises to the surface.
-    You should be left with about 3 cups of sauce thick enough to lightly coat the back of a spoon. 
-     *If the sauce is too thick, add a few tablespoons of stock. If the sauce is too thin, boil it over medium heat for about 10 minutes, or until reduced to the right consistency. (See notes about thickening.)
-    Taste for seasoning and adjust salt and pepper, if desired. Add the shanks back into the pot of sauce.
-    Garnish with parsley and serve with mashed potatoes, rice or pasta.
-    To serve the following day, allow the casserole to cool completely, cover and refrigerate. 
-    The day of serving, remove from refrigerator for at least an hour before reheating. Place over medium-low heat and let simmer gently for about 10 - 15 minutes, basting the shanks and vegetables with the sauce.
+* Preheat oven to 350°F (175°C).
 
-Notes
+* Wash and pat dry lamb shanks with paper towel.
+
+* Heat 1 tablespoon oil in a heavy-based pot over medium-high heat. Sear two shanks in the hot oil until browned on all sides. Repeat with remaining shanks and oil. Transfer to a plate, tent with foil to keep warm, set aside.
+
+* Sauté the carrots and diced onions in pan juices until softened, (about 3 minutes), then add garlic and cook for 1 minute.
+
+* Return the shanks to the pot; season with 1 teaspoon salt and 1/2 teaspoon ground pepper. Sprinkle with flour, toss well and cook for 4-5 minutes to brown the flour.
+
+* Add stock, wine, puree, tomato paste, bouillon and herbs. Bring to a simmer on the stove.
+
+* Cover, transfer to lower part of the oven and cook for 2 1/2 hours, or until the meat is fall-apart tender (adjust the heat so that the liquid simmers very slowly). Gently transfer the shanks onto a plate; tent to keep warm.
+
+* Discard the bay leaves from the sauce and place pot onto stove. Simmer sauce over medium heat until thickened to your desired consistency. Optionally skim off any additional fat which rises to the surface. You should be left with about 3 cups of sauce thick enough to lightly coat the back of a spoon. If the sauce is too thick, add a few tablespoons of stock. If the sauce is too thin, boil it over medium heat for about 10 minutes, or until reduced to the right consistency.
+
+* Taste for seasoning and adjust salt and pepper, if desired. Add the shanks back into the pot of sauce. Garnish with parsley and serve with mashed potatoes, rice or pasta.
+
+
 STOVE TOP:
 
     Wash and pat dry lamb shanks with paper towel. 
