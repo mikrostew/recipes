@@ -1,4 +1,7 @@
-# Banana Bread
+# Banana Bread [deprecated]
+
+| _Deprecated in favor of [this banana bread](./banana-bread.md)_ |
+| --- |
 
 Easy prep, makes 1 loaf
 
