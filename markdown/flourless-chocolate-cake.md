@@ -31,7 +31,7 @@ Good for Passover (no [chametz](https://www.chabad.org/holidays/passover/pesach_
 
 * Remove from the oven, place cake on a cooling rack, and cool for only 10 minutes in the cake pan. Run a sharp knife around the edges to help release the warm cake, then quickly invert it onto a serving plate or cake stand. (If it cools completely in the pan, it’s very difficult to release from the pan.) Cake will be a little crumbly on the edges. Cool completely. I usually stick it in the refrigerator for 1-2 hours.
 
-* Once the cake is cool, top with your choice of toppings. My suggestions are listed above this recipe. I love it with my mocha whipped cream.
+* Once the cake is cool, top with [chocolate ganache](./chocolate-ganache.md) or [mocha whipped cream](./mocha-whipped-cream.md) (or both!).
 
 ## Notes
 
