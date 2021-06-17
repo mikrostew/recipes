@@ -6,12 +6,15 @@ My daughter loves flamingos, and loves this breakfast
 
 * [ ] 1 frozen waffle
 * [ ] 1 banana
-* [ ] fruit, nuts, coconut, whatever
+* [ ] red fruit (raspberries, strawberries, whatever)
+* [ ] more fruit, nuts, coconut, dried fruit, etc.
 
 ## Directions
 
-* Toast the waffle. Trim off two small sections for the legs (see picture), and arrange on the plate.
+_(Refer to picture above to make sense of these directions)_
 
-* Cut off a small angled section at the curvier end of the banana. Arrange both pieces on top of the waffle, using the small section for the tail.
+* Toast the waffle. Cut off two small sections for the legs, and arrange on the plate.
 
-* Arrange fruit (strawberries, raspberries, something red is good) on top of the waffle. Cut a small round piece to use for the eye. Add whatever other fruit or nuts or coconut you like. Serve with maple syrup.
+* Cut off a small angled section at the curvier end of the banana. Arrange both pieces on top of the waffle, using the large piece for the neck and head, and the small section for the tail.
+
+* Arrange red fruit on top of the waffle. Cut a small round piece to use for the eye. Add whatever other fruit or nuts or coconut or whatever you like. Serve with maple syrup.
