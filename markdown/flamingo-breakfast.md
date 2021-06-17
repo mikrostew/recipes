@@ -2,6 +2,9 @@
 
 My daughter loves flamingos, and loves this breakfast
 
+<img src="/img/flamingo-breakfast-1.jpg?raw=true" alt="flamingo creation #1" width="512"/>
+<img src="/img/flamingo-breakfast-2.jpg?raw=true" alt="flamingo creation #2" width="512"/>
+
 ## Ingredients
 
 * [ ] 1 frozen waffle
@@ -11,7 +14,7 @@ My daughter loves flamingos, and loves this breakfast
 
 ## Directions
 
-_(Refer to picture above to make sense of these directions)_
+_(Refer to pictures above to make sense of these directions)_
 
 * Toast the waffle. Cut off two small sections for the legs, and arrange on the plate.
 
