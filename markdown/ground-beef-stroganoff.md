@@ -4,12 +4,12 @@ Made in one skillet
 
 ## Ingredients
 
-* [ ] 8 oz. white button mushrooms, sliced and chopped
+* [ ] 8 oz. white button or baby bella mushrooms, sliced and roughly chopped
 * [ ] 2 tbsp butter
 * [ ] 1/2 onion, diced
-* [ ] 1 clove garlic, chopped
+* [ ] 1 clove garlic, chopped (optional)
 * [ ] 1 lb. ground beef (up to 1.5 lbs, can mix beef + turkey)
-* [ ] 3 tbsp flour
+* [ ] 3 Tbsp flour
 * [ ] 1 tsp paprika
 * [ ] 1/4 cup wine (or apple cider vinegar works too)
 * [ ] 4 cups beef stock
@@ -32,4 +32,4 @@ Made in one skillet
 
 ## Notes
 
-From https://iwashyoudry.com/one-skillet-ground-beef-stroganoff/. The supposed 15 minute cook time is ridiculous. This takes 30 minutes. I had to salt it well throughout.
+From https://iwashyoudry.com/one-skillet-ground-beef-stroganoff/ (The timing there is aspirational — prep takes me 15 minutes, cook time more like 30 minutes) I had to season the ingredients well throughout.
