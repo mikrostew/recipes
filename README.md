@@ -20,7 +20,6 @@
 
 ## Dinner
 
-* [BBQ Chicken](markdown/bbq-chicken.md)
 * [Beef Bulgogi Bowls](markdown/beef-bulgogi-bowls.md)
 * [Braised Lamb Shanks](markdown/braised-lamb-shanks.md)
 * [Butter Chicken (TODO)](markdown/butter-chicken-TODO.md)
@@ -37,15 +36,19 @@
 * [Turkey Burgers](markdown/turkey-burgers.md)
 * [Turkey Meatballs in Tomato Sauce (TODO)](markdown/turkey-meatballs-in-tomato-sauce-TODO.md)
 
+## Meal Components
+
+* [BBQ Chicken](markdown/bbq-chicken.md)
+* Eggplant (TODO)
+* Zucchini (TODO)
+
 ## Desserts & Sweets
 
 * [Apple Cake (TODO)](markdown/apple-cake-TODO.md)
 * [Brownies (TODO)](markdown/brownies-TODO.md)
 * [Carrot Cake (TODO)](markdown/carrot-cake-TODO.md)
 * [Chocolate Chip Cookies](markdown/chocolate-chip-cookies.md)
-* [Chocolate Ganache](markdown/chocolate-ganache.md)
 * [Coffee Cake (TODO)](markdown/coffee-cake-TODO.md)
-* [Cupcake Frosting](markdown/cupcake-frosting.md)
 * [Devil's Food Cupcakes](markdown/devils-food-cupcakes.md)
 * [Donuts (TODO)](markdown/donuts-TODO.md)
 * [Flourless Chocolate Cake](markdown/flourless-chocolate-cake.md)
@@ -53,20 +56,30 @@
 * [Lemon Bars](markdown/lemon-bars.md)
 * [Lemon Cake with Vanilla Bean Frosting](markdown/lemon-cake-vanilla-frosting.md)
 * [Lemon Meringue Pie (TODO)](markdown/lemon-meringue-pie-TODO.md)
-* [Mocha Whipped Cream](markdown/mocha-whipped-cream.md)
-* [Old Fashioned Pie Crust](markdown/old-fashioned-pie-crust.md)
 * [Orange Marmalade (TODO)](markdown/orange-marmalade-TODO.md)
 * [Peanut Butter Cookies](markdown/peanut-butter-cookies.md)
-* [Pie Crust (TODO)](markdown/pie-crust-TODO.md)
 * [Pumpkin Pie](markdown/pumpkin-pie.md)
 * [Scones (TODO)](markdown/scones-TODO.md)
 * [Strawberry Cake](markdown/strawberry-cake.md)
 * [Strawberry Pie](markdown/strawberry-pie.md)
 * [Sugar Cookies](markdown/sugar-cookies.md)
 * [Vanilla Cake (TODO)](markdown/vanilla-cake-TODO.md)
+
+## Dessert Components
+
+* [Chocolate Ganache](markdown/chocolate-ganache.md)
+* [Cupcake Frosting](markdown/cupcake-frosting.md)
+* [Mocha Whipped Cream](markdown/mocha-whipped-cream.md)
+* [Old Fashioned Pie Crust](markdown/old-fashioned-pie-crust.md)
+* [Pie Crust (TODO)](markdown/pie-crust-TODO.md)
 * [Whipped Cream](markdown/whipped-cream.md)
 
-## Bread
+## Jewish Foods
+
+* [Charoset](markdown/charoset.md)
+* [Latkes (TODO)](latkes-TODO.md)
+
+## Yeast Breads
 
 * [Challah](markdown/challah.md)
 
@@ -83,8 +96,3 @@
 * [2-Minute Hollandaise](markdown/hollandaise.md)
 * [Taco Seasoning](markdown/taco-seasoning.md)
 * [Za'atar Spice](markdown/zaatar-spice.md)
-
-## Jewish Foods
-
-* [Charoset](markdown/charoset.md)
-* [Latkes (TODO)](latkes-TODO.md)
