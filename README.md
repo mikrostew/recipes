@@ -83,6 +83,7 @@
 * [Strawberry Pie](markdown/strawberry-pie.md)
 * [Sugar Cookies](markdown/sugar-cookies.md)
 * [Vanilla Cake (TODO)](markdown/vanilla-cake-TODO.md)
+* [Yellow Cake](markdown/yellow-cake.md)
 </details>
 
 <details>
@@ -95,6 +96,7 @@
 * [Mocha Whipped Cream](markdown/mocha-whipped-cream.md)
 * [Old Fashioned Pie Crust](markdown/old-fashioned-pie-crust.md)
 * [Pie Crust (TODO)](markdown/pie-crust-TODO.md)
+* [Raspberry Filling](markdown/raspberry-filling.md)
 * [Whipped Cream](markdown/whipped-cream.md)
 </details>
 
