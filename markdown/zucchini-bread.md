@@ -1,5 +1,7 @@
 # zucchini bread
 
+Makes one 8 x 4 inch loaf, or 12 muffins.
+
 ## Ingredients
 
 * [ ] 1 1/2 cups (187g) flour
@@ -20,13 +22,15 @@
 
 ## Directions
 
-* Preheat oven to 325°F (165°C). Grease and flour an 8 x 4 inch pan. 
+* Preheat oven to 325°F (165°C). Grease and flour an 8 x 4 inch pan, or put paper liners in muffin cups. 
 
 * Combine flour, salt, baking powder, soda, and cinnamon in a bowl.
 
-* Beat eggs, oil, vanilla, and sugar together in another bowl. Add dry ingredients to the wet mixture (just dump it all in), and mix until combined (it will be thick). Stir in zucchini (and nuts, if using). Pour batter into prepared pan.
+* Beat eggs, oil, vanilla, and sugar together in another bowl. Add dry ingredients to the wet mixture (just dump it all in), and mix until combined (it will be thick). Stir in zucchini (and nuts, if using).
 
-* Bake for 50 to 60 minutes, or until done (toothpick in the center comes out clean). Cool in pan on rack for 20 minutes. Remove bread from pan, and completely cool.
+* Pour batter into pan and smooth top. For muffins, fill the liners almost full (shallow 1/3 cup is about right).
+
+* Bake loaf for 50 to 60 minutes (about 25 minutes for muffins), until done (toothpick in the center comes out clean). Cool in pan on rack for 20 minutes. Remove from pan, and completely cool.
 
 
 ## Notes
