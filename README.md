@@ -82,7 +82,7 @@
 * [Strawberry Cake](markdown/strawberry-cake.md)
 * [Strawberry Pie](markdown/strawberry-pie.md)
 * [Sugar Cookies](markdown/sugar-cookies.md)
-* [Vanilla Cake (TODO)](markdown/vanilla-cake-TODO.md)
+* [Vanilla Cake](markdown/vanilla-cake.md)
 * [Yellow Cake](markdown/yellow-cake.md)
 </details>
 
