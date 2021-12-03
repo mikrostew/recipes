@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-* [ ] 1/2 cup unsalted butter, softened to room temperature (113g)
+* [ ] 1/2 cup unsalted butter, softened to room temperature (1 stick; 113g)
 * [ ] 1/2 cup vegetable oil (120ml)
 * [ ] 1 1/2 cup granulated sugar (300g)
 * [ ] 4 eggs, room temperature
