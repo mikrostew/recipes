@@ -27,7 +27,7 @@
 
 * Using a spatula and gently hand-mixing, alternate adding flour mixture and buttermilk to the butter mixture, starting and ending with flour mixture and mixing until just combined after each addition.  The batter should be smooth and completely combined, but avoid over-mixing.
 
-* Evenly divide batter into your prepared cake pans, and bake on 350F (175C) for 30-35 minutes.  When the cake is done, the surface should spring back to the touch and a toothpick inserted in the center should come out mostly clean with few moist crumbs (no wet batter).
+* Evenly divide batter into your prepared cake pans (roughly 450g in each), and bake on 350F (175C) for 25-30 minutes.  When the cake is done, the surface should spring back to the touch and a toothpick inserted in the center should come out mostly clean with few moist crumbs (no wet batter). Took me 27 minutes.
 
 * Allow cakes to cool in their cake pans for 10-15 minutes before inverting onto cooling rack to cool completely before frosting.
 
