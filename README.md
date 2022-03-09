@@ -107,6 +107,7 @@
 
 * [Charoset](markdown/charoset.md)
 * [Latkes (TODO)](latkes-TODO.md)
+* [Hamentaschen](markdown/hamentaschen.md)
 </details>
 
 <details>
