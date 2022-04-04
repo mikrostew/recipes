@@ -28,6 +28,15 @@ Makes 10 4-inch pancakes.
 
 From Betty Crocker, via my Mom :)
 
+Maybe next time incorporate some ideas from [The Food Lab's old recipe](https://web.archive.org/web/20150214024836/https://www.seriouseats.com/recipes/2010/06/light-and-fluffy-pancakes-recipe.html)
+* double all quantities, since I usually do that anyway
+* less sugar
+* melted butter instead of oil
+* less baking soda?
+* froth the eggs instead of just beating, for more fluffiness
+
+Their [new recipe](https://www.seriouseats.com/light-and-fluffy-pancakes-recipe) is too involved
+
 
 ## Variations
 
