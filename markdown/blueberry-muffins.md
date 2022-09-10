@@ -6,7 +6,7 @@ Makes 12 muffins
 
 * [ ] 1-1/2 cups (180g) all-purpose flour (can use some whole wheat)
 * [ ] 3/4 cup (150g) white sugar (can use some brown)
-* [ ] 1/2 tsp salt
+* [ ] 1/4 tsp salt
 * [ ] 1 tsp baking powder
 * [ ] 1 tsp baking soda
 * [ ] 1 egg
