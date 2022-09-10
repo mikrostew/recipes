@@ -12,7 +12,7 @@ Makes 12 muffins
 * [ ] 1 egg
 * [ ] 1/3 cup vegetable oil (or melted butter)
 * [ ] zest from 1 lemon
-* [ ] 1/2-ish cup buttermilk (or 1/4 cup milk + 1/4 cup sour cream)
+* [ ] 1/2-ish cup buttermilk (or kefir, or 1/4 cup milk + 1/4 cup sour cream)
 * [ ] 1+ cup (150-200g) fresh blueberries (or thawed from frozen†)
 
 † _but that's not as good_
@@ -36,5 +36,7 @@ TODO: do this with less sugar next time
 Do buttermilk substitues work?
 * <https://www.seriouseats.com/how-to-substitute-buttermilk>
 * <https://thecakeblog.com/2014/09/cake-baking-science.html>
+
+Kefir is a good sub for buttermilk. I use that often.
 
 I've read about tossing the blueberries in flour then folding them in, but that [probably doesn't help](https://www.seriouseats.com/2016/07/how-to-stop-blueberries-from-sinking-muffin-baking.html).
