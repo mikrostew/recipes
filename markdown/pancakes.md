@@ -4,16 +4,16 @@ Betty Crocker
 
 ## Ingredients
 
-* [ ] 1 egg
-* [ ] 1 cup buttermilk
-* [ ] 2 Tbsp oil
-* [ ] 1 cup (125g) all-purpose flour (can use 1/2 whole wheat) †
+* [ ] 2 eggs
+* [ ] 2 cups buttermilk (or kefir)
+* [ ] 1/4 cup (4 Tbsp) oil
+* [ ] 2 cups (250g) all-purpose flour (can use 1/2 whole wheat) †
 * [ ] 1 Tbsp sugar
-* [ ] 1 tsp baking powder
-* [ ] 1/2 tsp baking soda
+* [ ] 2 tsp baking powder
+* [ ] 1 tsp baking soda
 * [ ] 1/2 tsp salt
 
-† _If using self-rising flour, omit baking powder and salt and decrease soda to 1/4 tsp_
+† _If using self-rising flour, omit baking powder and salt and decrease soda to 1/2 tsp_
 
 ## Directions
 
@@ -21,19 +21,17 @@ Beat egg; add buttermilk and oil. Combine dry ingredients in a separate bowl. Mi
 
 Grease heated griddle with butter. Pour batter onto hot griddle (1/4 cup is about right). Turn pancakes as soon as they are puffed and full of bubbles (before the bubbles break). Bake other side until golden brown.
 
-Makes 10 4-inch pancakes.
+Makes 20 4-inch pancakes.
 
 
 ## Notes
 
 From Betty Crocker, via my Mom :)
 
-Maybe next time incorporate some ideas from [The Food Lab's old recipe](https://web.archive.org/web/20150214024836/https://www.seriouseats.com/recipes/2010/06/light-and-fluffy-pancakes-recipe.html)
+Incorporated some ideas from [The Food Lab's old recipe](https://web.archive.org/web/20150214024836/https://www.seriouseats.com/recipes/2010/06/light-and-fluffy-pancakes-recipe.html)
 * double all quantities, since I usually do that anyway
 * less sugar
 * melted butter instead of oil
-* less baking soda?
-* froth the eggs instead of just beating, for more fluffiness
 
 Their [new recipe](https://www.seriouseats.com/light-and-fluffy-pancakes-recipe) is too involved
 
