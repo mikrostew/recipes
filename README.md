@@ -1,7 +1,4 @@
 # recipes
-
-<details>
-  <summary>Breakfast</summary>
   
 ## Breakfast
 
@@ -13,10 +10,6 @@
 * [Lemon Ricotta Pancakes (easy)](markdown/lemon-ricotta-pancakes-2.md)
 * [Pancakes](markdown/pancakes.md)
 * [Pancakes (Bon Apetit)](markdown/pancakes-bon-apetit.md)
-</details>
-
-<details>
-  <summary>Lunch</summary>
   
 ## Lunch
 
@@ -24,10 +17,6 @@
 * [Macaroni and Cheese (one pan)](markdown/macaroni-and-cheese-one-pan.md)
 * [Salmon Patties](markdown/salmon-patties.md)
 * [Tuna Noodle Casserole](markdown/tuna-noodle-casserole.md)
-</details>
-
-<details>
-  <summary>Dinner</summary>
   
 ## Dinner
 
@@ -46,20 +35,12 @@
 * [Spiced Beef Wraps](markdown/spiced-beef-wraps.md)
 * [Turkey Burgers](markdown/turkey-burgers.md)
 * [Turkey Meatballs in Tomato Sauce (TODO)](markdown/turkey-meatballs-in-tomato-sauce-TODO.md)
-</details>
-
-<details>
-  <summary>Meal Components</summary>
 
 ## Meal Components
   
 * [BBQ Chicken](markdown/bbq-chicken.md)
 * Eggplant (TODO)
 * Zucchini (TODO)
-</details>
-
-<details>
-  <summary>Desserts & Sweets</summary>
 
 ## Desserts & Sweets
 
@@ -84,10 +65,6 @@
 * [Sugar Cookies](markdown/sugar-cookies.md)
 * [Vanilla Cake](markdown/vanilla-cake.md)
 * [Yellow Cake](markdown/yellow-cake.md)
-</details>
-
-<details>
-  <summary>Dessert Components</summary>
 
 ## Dessert Components
 
@@ -98,28 +75,16 @@
 * [Pie Crust (TODO)](markdown/pie-crust-TODO.md)
 * [Raspberry Filling](markdown/raspberry-filling.md)
 * [Whipped Cream](markdown/whipped-cream.md)
-</details>
-
-<details>
-  <summary>Jewish Foods</summary>
 
 ## Jewish Foods
 
 * [Charoset](markdown/charoset.md)
 * [Latkes (TODO)](latkes-TODO.md)
 * [Hamentaschen](markdown/hamentaschen.md)
-</details>
-
-<details>
-  <summary>Yeast Breads</summary>
 
 ## Yeast Breads
 
 * [Challah](markdown/challah.md)
-</details>
-
-<details>
-  <summary>Quick Breads</summary>
 
 ## Quick Breads
 
@@ -128,14 +93,9 @@
 * [Cranberry Nut Bread](markdown/cranberry-nut-bread.md)
 * [Sour Cream Pound Cake](markdown/sour-cream-pound-cake.md)
 * [Zucchini Bread](markdown/zucchini-bread.md)
-</details>
-
-<details>
-  <summary>Spices and Sauces</summary>
 
 ## Spices and Sauces
 
 * [2-Minute Hollandaise](markdown/hollandaise.md)
 * [Taco Seasoning](markdown/taco-seasoning.md)
 * [Za'atar Spice](markdown/zaatar-spice.md)
-</details>
