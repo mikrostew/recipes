@@ -57,6 +57,7 @@
 * [Lemon Cake with Vanilla Bean Frosting](markdown/lemon-cake-vanilla-frosting.md)
 * [Lemon Meringue Pie (TODO)](markdown/lemon-meringue-pie-TODO.md)
 * [Orange Marmalade (TODO)](markdown/orange-marmalade-TODO.md)
+* [Oreo Cake](markdown/oreo-cake.md)
 * [Peanut Butter Cookies](markdown/peanut-butter-cookies.md)
 * [Pumpkin Pie](markdown/pumpkin-pie.md)
 * [Scones (TODO)](markdown/scones-TODO.md)
