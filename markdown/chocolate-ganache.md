@@ -13,7 +13,10 @@ Ratios for different types of ganaches
 
 For all ratios:
 
-* Place the chocolate chips in a heatproof bowl. Heat the cream until it's not quite at a simmer, but showing fine bubbles around the edge (goal is 200°F). Pour the cream over the chocolate, stir very briefly to combine, and let rest for 5 minutes. Stir again — at first slowly, then more vigorously — until the chocolate is completely melted and the glaze is smooth. If any bits of chocolate remain, reheat briefly in the microwave or over a burner, then stir until smooth.
+* Place the chocolate chips in a heatproof bowl.
+* Heat the cream in a double boiler until it's not quite at a simmer, but showing fine bubbles around the edge (goal is 200°F).
+* Pour the cream over the chocolate, stir very briefly to combine, and let rest for 5 minutes. Stir again — at first slowly, then more vigorously — until the chocolate is completely melted and the glaze is smooth.
+* If any bits of chocolate remain, reheat briefly, then stir until smooth.
 
 ### Truffles and stiff decorations
 
