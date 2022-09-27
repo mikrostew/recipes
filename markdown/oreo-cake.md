@@ -6,15 +6,15 @@ Batter for 4 x 6" pans, plus frosting and ganache.
 
 Cake
 
-* [ ] 14 ounces (397 g) All-Purpose flour
+* [ ] 14 ounces (397 g) all-purpose flour
 * [ ] 2 1/2 teaspoons baking powder
 * [ ] 3/4 teaspoon salt
-* [ ] 8 ounces (227 g) unsalted butter, room temperature
-* [ ] 14 ounces (397 g) granulated sugar
-* [ ] 6 large (198 g) egg whites, room temperature
 * [ ] 10 ounces (283 g) milk, room temperature
 * [ ] 2 ounces (57 g) vegetable oil
 * [ ] 2 teaspoons clear vanilla extract
+* [ ] 8 ounces (227 g) unsalted butter, room temperature
+* [ ] 14 ounces (397 g) granulated sugar
+* [ ] 6 large (198 g) egg whites, room temperature
 * [ ] 4 ounces (113 g) roughly chopped Oreo cookies (about 12 Oreos), without filling
 
 Buttercream
@@ -34,21 +34,18 @@ Ganache
 
 Cake
 
-* This is the BEST Oreo cake because I use a scale so it turns out perfectly. 🙂 If you convert to cups I cannot guarantee good results. Make sure your (cold ingredients) butter, eggs, and milk are at room temperature or a little warm.
-* I microwave my milk for about 30 seconds and place my eggs (still in the shells) in a bowl of warm water for 5 minutes.
-* Preheat your oven to 335ºF (168ºC) and prepare three, 6"x2" cake pans with cake goop or another preferred pan release.
-* In a large bowl, combine flour, baking powder, and salt. Set aside.
-* Combine the milk, oil, and vanilla extract in a separate cup. Set aside.
-* Place the softened butter in a stand mixer with a paddle attachment and cream until smooth. Sprinkle in your sugar and then let whip on medium-high until light, white, and fluffy (about 5 minutes).
-* I'm using my Bosch Universal Plus stand mixer, a KitchenAid will work as well. I wouldn't recommend using a hand mixer but if that's all you have, make sure to go by look and consistency instead of time. (See pictures above.)
+* Make sure the cold ingredients (butter, eggs, and milk) are at room temperature (usually takes at least an hour).
+* Scrape the cream filling from the Oreos and save to mix into the frosting. Roughly chop the oreos into 1/4-inch chunks.
+* Preheat oven to 325°F. Grease and flour four 6" round cake pans.
+* In a medium bowl, combine flour, baking powder, and salt. Set aside.
+* In a measuring cup, combine milk, oil, and vanilla extract. Set aside.
+* Place the softened butter in a stand mixer with a paddle attachment and cream until smooth (1-2 minutes). Add sugar and whip on medium-high until light, white, and fluffy (about 5 minutes).
 * While mixing on low, slowly add the egg whites to the mixture one at a time, letting each fully combine before adding the next. (Cold egg whites will curdle the batter, so make sure they're room-temperature.)
 * Add in 1/3 of your dry ingredients to the mixture and mix on low until just combined. Then add in 1/2 of your liquids, then 1/3 dry, then 1/2 liquids, and the rest of your dry. Let it mix until just combined. Do not overmix!
-* Scrape the cream filling from the Oreos and discard or save and mix into your Oreo frosting, then roughly chop the oreos into 1/4-inch chunks.
 * Divide the batter evenly into prepared cake pans and sprinkle the chopped oreos on top of each pan. Gently fold the oreos into the batter with a knife until just combined.
-* Bake cakes at 335º F for 35-45 minutes or until a toothpick comes out clean when poked in the center.
-* If you're using two, 8"x2" pans, bake for longer.
-* Let the cakes cool in the pan for 10 minutes or until the pan feels barely warm then turn out cakes onto a cooling rack. Place them into the freezer to flash chill, or wrap in plastic wrap and freeze for up to 1 week. This locks in the moisture.
-* Once cool, you can then trim off the brown edges and domes of your cakes (optional) and frost as desired. I do a crumb coat, freeze the cake for 15 minutes, then do a final coat, combine my leftover buttercream with the crushed Oreos, and top the cake with some dollops and whole oreos.
+* Bake cakes at 325°F for 35-45 minutes or until a toothpick comes out with some wet crumbs (not raw batter) when poked in the center.
+* Let the cakes cool in the pan for 10 minutes or until the pan feels barely warm then turn out cakes onto a cooling rack. Place them into the freezer to flash chill, or wrap in plastic wrap and freeze for up to 1 week (this locks in the moisture).
+* Once cool, you can trim off the brown edges and domes of your cakes (optional) and frost as desired. I recommend doing a crumb coat, freezing the cake for 15 minutes, then doing a final coat.
 
 Buttercream
 
@@ -85,12 +82,12 @@ But for this recipe,
 * why use sour cream and milk instead of buttermilk?
 
 I found a similar recipe at https://sugargeekshow.com/recipe/oreo-cake-recipe/, which has a slightly different recipe, but actually explains some things.
-She uses a [white cake base](https://sugargeekshow.com/recipe/white-cake-recipe/), so it looks nicer with the oreos (not a yellow cake), so that's why there are no yolks.
+She uses a [white cake base](https://sugargeekshow.com/recipe/white-cake-recipe/), so it looks nicer with the oreos (not a yellow cake), so that's probably why there are no yolks.
 And it uses the traditional creaming method.
 It uses milk instead of buttermilk so the cake is strong enough to support the cookies.
 She also takes out the filling before chopping so it doesn't melt and leave holes in the cake.
 
 So, I'm going to use her recipe, but his construction.
-Her 2" tall pans look pretty full, so I think I can do 4 x 6" pans with only 1" or so of batter in them, without scaling her recipe (her recipe makes more batter anyway).
+Her 2" tall pans [look pretty full](https://sugargeekshow.com/wp-content/uploads/2021/02/oreo_cake_recipe-15-of-32.jpg), so I think I can do 4 x 6" pans with only 1" or so of batter in them, without scaling her recipe (her recipe makes more batter anyway).
 
 Not sure what buttercream I will use though. TBD.
