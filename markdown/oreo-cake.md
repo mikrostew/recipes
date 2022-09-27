@@ -1,6 +1,6 @@
 # Oreo cake
 
-Batter for 4 x 6" pans, plus frosting and ganache.
+Makes four (4) 6" cakes, plus frosting and ganache.
 
 ## Ingredients
 
@@ -29,8 +29,8 @@ Oreo Buttercream
 
 Ganache
 
-* [ ] 1 cup semisweet chocolate chips 200g
-* [ ] 1/2 cup Heavy cream 110g, heated
+* [ ] 1 cup (200g) semisweet chocolate chips
+* [ ] 1 cup (200g) heavy cream
 
 ## Directions
 
@@ -63,7 +63,10 @@ Oreo Buttercream
 
 Ganache
 
-* Melt chocolate and cream together on low heat. Whisk together and set aside. You might need to add more or less cream to achieve the desired consistency. 
+* Place the chocolate chips in a heatproof bowl.
+* Heat the cream in a double boiler until it's not quite at a simmer, but showing fine bubbles around the edge (goal is 200°F).
+* Pour the cream over the chocolate, stir very briefly to combine, and let rest for 5 minutes. Stir again — at first slowly, then more vigorously — until the chocolate is completely melted and the glaze is smooth.
+* If any bits of chocolate remain, reheat briefly, then stir until smooth.
 
 Assembly
 
@@ -98,3 +101,5 @@ So, I'm going to use her recipe, but his construction.
 Her 2" tall pans [look pretty full](https://sugargeekshow.com/wp-content/uploads/2021/02/oreo_cake_recipe-15-of-32.jpg), so I think I can do 4 x 6" pans with only 1" or so of batter in them, without scaling her recipe (her recipe makes more batter anyway).
 
 For buttercream, I like [this recipe](https://livforcake.com/simple-vanilla-buttercream/), so I'll basically do that but adding crushed oreos like the other 2 recipes. I like the look of the preppy kitchen frosting, so I'll add about that much of the crushed oreos, with the butter and sugar amounts from sugargeekshow recipe (it makes more).
+
+For ganache, I already [have some recipes for that](./chocolate-ganache.md), so I'll use that, in a 1:1 ratio to get a thick glaze consistency.
