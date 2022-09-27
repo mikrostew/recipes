@@ -17,13 +17,15 @@ Cake
 * [ ] 6 large (198 g) egg whites, room temperature
 * [ ] 4 ounces (113 g) roughly chopped Oreo cookies (about 12 Oreos), without filling
 
-Buttercream
+Oreo Buttercream
 
-* [ ] 1 1/2 cup butter 340g, room temp
-* [ ] 5 cups confectioners' sugar 600g
-* [ ] 1 1/3 cups crushed Oreos 165g
-* [ ] 1/4 cup heavy cream 60g
-* [ ] pinch salt kosher
+* [ ] 16 ounces (454g) unsalted butter room temperature
+* [ ] 32 ounces (907g) powdered sugar
+* [ ] 1/4 teaspoon salt
+* [ ] 1 teaspoon vanilla extract
+* [ ] 4 Tbsp (60g) heavy cream
+* [ ] leftover Oreo filling, heated
+* [ ] 6.5 ounces (185g) crushed Oreo cookies (about 16 Oreos), without filling
 
 Ganache
 
@@ -47,10 +49,16 @@ Cake
 * Let the cakes cool in the pan for 10 minutes or until the pan feels barely warm then turn out cakes onto a cooling rack. Place them into the freezer to flash chill, or wrap in plastic wrap and freeze for up to 1 week (this locks in the moisture).
 * Once cool, you can trim off the brown edges and domes of your cakes (optional) and frost as desired. I recommend doing a crumb coat, freezing the cake for 15 minutes, then doing a final coat.
 
-Buttercream
+Oreo Buttercream
 
-* Beat the butter until light and fluffy. Add the confectioners' sugar and cream and mix. 
-* Reserve about a cup of the buttercream for the white dollops. Which will be piped with an 869 tip.
+* Prepare a stand mixer with a whisk attachment.
+* Whisk butter until creamy.
+* Reduce speed to low and add powdered sugar 1 cup at a time until well blended, then increase speed to medium and beat for 3 minutes.
+* Add vanilla, salt and 2 Tbsp cream and continue to whip on medium for 1 minute.
+* Heat leftover Oreo filling in microwave until melty, then add in while mixing.
+* Add more cream as needed until desired consistency is reached.
+* Whip until the frosting is smooth and silky.
+* Reserve any buttercream needed for white decorations.
 * Mix in the crushed Oreos into the large batch of buttercream.
 
 Ganache
@@ -59,11 +67,10 @@ Ganache
 
 Assembly
 
-* Oreo buttercream goes between each layer as well as a swirl of chocolate. Don't go overboard with the ganache as it will overpower the other flavors.
+* Oreo frosting goes between each layer as well as a swirl of chocolate (don't go overboard, the ganache will overpower the other flavors).
 * Coat outside with buttercream and smooth.
 * Add a skirt of crushed Oreos at the bottom of the cake.
 * Pour the ganache on top and allow to drip. Smooth top with an offset spatula.
-* Pipe white buttercream dollops on top with an 869 tip
 
 ## Notes
 
@@ -90,4 +97,4 @@ She also takes out the filling before chopping so it doesn't melt and leave hole
 So, I'm going to use her recipe, but his construction.
 Her 2" tall pans [look pretty full](https://sugargeekshow.com/wp-content/uploads/2021/02/oreo_cake_recipe-15-of-32.jpg), so I think I can do 4 x 6" pans with only 1" or so of batter in them, without scaling her recipe (her recipe makes more batter anyway).
 
-Not sure what buttercream I will use though. TBD.
+For buttercream, I like [this recipe](https://livforcake.com/simple-vanilla-buttercream/), so I'll basically do that but adding crushed oreos like the other 2 recipes. I like the look of the preppy kitchen frosting, so I'll add about that much of the crushed oreos, with the butter and sugar amounts from sugargeekshow recipe (it makes more).
