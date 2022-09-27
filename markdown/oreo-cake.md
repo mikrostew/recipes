@@ -59,6 +59,7 @@ Oreo Buttercream
 * Add more cream as needed until desired consistency is reached.
 * Whip until the frosting is smooth and silky.
 * Reserve any buttercream needed for white decorations.
+* Make sure to crush the Oreos very finely or they will clog up your piping tip.
 * Mix in the crushed Oreos into the large batch of buttercream.
 
 Ganache
