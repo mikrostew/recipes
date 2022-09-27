@@ -99,3 +99,8 @@
 * [2-Minute Hollandaise](markdown/hollandaise.md)
 * [Taco Seasoning](markdown/taco-seasoning.md)
 * [Za'atar Spice](markdown/zaatar-spice.md)
+
+
+# FAQ
+
+[How far in advance can I bake a cake?](faq/bake-cake-in-advance.md)
