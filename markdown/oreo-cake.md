@@ -6,16 +6,16 @@ Makes four (4) 6" cakes, plus frosting and ganache.
 
 Cake
 
-* [ ] 14 ounces (397 g) all-purpose flour
+* [ ] 14 ounces (397g) all-purpose flour
 * [ ] 2 1/2 teaspoons baking powder
 * [ ] 3/4 teaspoon salt
-* [ ] 10 ounces (283 g) milk, room temperature
-* [ ] 2 ounces (57 g) vegetable oil
+* [ ] 10 ounces (283g) milk, room temperature
+* [ ] 2 ounces (57g) vegetable oil
 * [ ] 2 teaspoons clear vanilla extract
-* [ ] 8 ounces (227 g) unsalted butter, room temperature
-* [ ] 14 ounces (397 g) granulated sugar
-* [ ] 6 large (198 g) egg whites, room temperature
-* [ ] 4 ounces (113 g) roughly chopped Oreo cookies (about 12 Oreos), without filling
+* [ ] 8 ounces (227g; 2 sticks) unsalted butter, room temperature
+* [ ] 14 ounces (397g) granulated sugar
+* [ ] 6 large (198g) egg whites, room temperature
+* [ ] 4 ounces (125g) roughly chopped Oreo cookies (about 15 Oreos), filling removed
 
 Oreo Buttercream
 
@@ -37,7 +37,7 @@ Ganache
 Cake
 
 * Make sure the cold ingredients (butter, eggs, and milk) are at room temperature (usually takes at least an hour).
-* Scrape the cream filling from the Oreos and save to mix into the frosting. Roughly chop the oreos into 1/4-inch chunks.
+* Scrape the cream filling from the Oreos and reserve to mix into the frosting. Roughly chop the oreos into 1/4-inch chunks.
 * Preheat oven to 325°F. Grease and flour four 6" round cake pans.
 * In a medium bowl, combine flour, baking powder, and salt. Set aside.
 * In a measuring cup, combine milk, oil, and vanilla extract. Set aside.
