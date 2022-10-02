@@ -11,7 +11,7 @@ Cake
 * [ ] 3/4 teaspoon salt
 * [ ] 10 ounces (283g) milk, room temperature
 * [ ] 2 ounces (57g) vegetable oil
-* [ ] 2 teaspoons clear vanilla extract
+* [ ] 2 teaspoons vanilla extract
 * [ ] 8 ounces (227g; 2 sticks) unsalted butter, room temperature
 * [ ] 14 ounces (397g) granulated sugar
 * [ ] 6 large (198g) egg whites, room temperature
@@ -19,13 +19,13 @@ Cake
 
 Oreo Buttercream
 
-* [ ] 16 ounces (454g) unsalted butter room temperature
+* [ ] 16 ounces (454g; 4 sticks) unsalted butter, room temperature
 * [ ] 32 ounces (907g) powdered sugar
 * [ ] 1/4 teaspoon salt
 * [ ] 1 teaspoon vanilla extract
 * [ ] 4 Tbsp (60g) heavy cream
-* [ ] leftover Oreo filling, heated
-* [ ] 6.5 ounces (185g) crushed Oreo cookies (about 16 Oreos), without filling
+* [ ] leftover Oreo filling, warmed
+* [ ] 6.5 ounces (185g) crushed Oreo cookies (about 16 Oreos), filling removed
 
 Ganache
 
@@ -36,45 +36,45 @@ Ganache
 
 Cake
 
-* Make sure the cold ingredients (butter, eggs, and milk) are at room temperature (usually takes at least an hour).
+* Make sure the cold ingredients (butter, eggs, and milk) are at room temperature (takes at least an hour). Cold egg whites will curdle the batter, so make sure they're room-temperature.
 * Scrape the cream filling from the Oreos and reserve to mix into the frosting. Roughly chop the oreos into 1/4-inch chunks.
 * Preheat oven to 325°F. Grease and flour four 6" round cake pans.
 * In a medium bowl, combine flour, baking powder, and salt. Set aside.
 * In a measuring cup, combine milk, oil, and vanilla extract. Set aside.
 * Place the softened butter in a stand mixer with a paddle attachment and cream until smooth (1-2 minutes). Add sugar and whip on medium-high until light, white, and fluffy (about 5 minutes).
-* While mixing on low, slowly add the egg whites to the mixture one at a time, letting each fully combine before adding the next. (Cold egg whites will curdle the batter, so make sure they're room-temperature.)
+* While mixing on low, slowly add the egg whites to the mixture one at a time, letting each fully combine before adding the next.
 * Add in 1/3 of your dry ingredients to the mixture and mix on low until just combined. Then add in 1/2 of your liquids, then 1/3 dry, then 1/2 liquids, and the rest of your dry. Let it mix until just combined. Do not overmix!
-* Divide the batter evenly into prepared cake pans and sprinkle the chopped oreos on top of each pan. Gently fold the oreos into the batter with a knife until just combined.
-* Bake cakes at 325°F for 35-45 minutes or until a toothpick comes out with some wet crumbs (not raw batter) when poked in the center.
+* Divide the batter evenly into prepared cake pans (I got 385g per pan) and sprinkle the chopped oreos on top of each pan. Gently fold the oreos into the batter with a spatula until just combined.
+* Bake cakes at 325°F for about 35 minutes or until a toothpick comes out with some wet crumbs (not raw batter) when poked in the center.
 * Let the cakes cool in the pan for 10 minutes or until the pan feels barely warm then turn out cakes onto a cooling rack. Place them into the freezer to flash chill, or wrap in plastic wrap and freeze for up to 1 week (this locks in the moisture).
 * Once cool, you can trim off the brown edges and domes of your cakes (optional) and frost as desired. I recommend doing a crumb coat, freezing the cake for 15 minutes, then doing a final coat.
 
 Oreo Buttercream
 
+* Scrape the cream filling from the Oreos and reserve to mix into the frosting. Crush the oreos (do this inside a ziplock to avoid making a mess). Make sure to crush the Oreos very finely or they will clog up your piping tip.
 * Prepare a stand mixer with a whisk attachment.
-* Whisk butter until creamy.
+* Whisk butter until creamy (1-2 minutes).
 * Reduce speed to low and add powdered sugar 1 cup at a time until well blended, then increase speed to medium and beat for 3 minutes.
 * Add vanilla, salt and 2 Tbsp cream and continue to whip on medium for 1 minute.
 * Heat leftover Oreo filling in microwave until melty, then add in while mixing.
 * Add more cream as needed until desired consistency is reached.
 * Whip until the frosting is smooth and silky.
 * Reserve any buttercream needed for white decorations.
-* Make sure to crush the Oreos very finely or they will clog up your piping tip.
 * Mix in the crushed Oreos into the large batch of buttercream.
 
 Ganache
 
 * Place the chocolate chips in a heatproof bowl.
 * Heat the cream in a double boiler until it's not quite at a simmer, but showing fine bubbles around the edge (goal is 200°F).
-* Pour the cream over the chocolate, stir very briefly to combine, and let rest for 5 minutes. Stir again — at first slowly, then more vigorously — until the chocolate is completely melted and the glaze is smooth.
+* Pour the cream over the chocolate, stir very briefly to combine, and let rest for 5 minutes. Once the temp has reduced to about 95°F, stir — at first slowly, then more vigorously — until the chocolate is completely melted and the glaze is smooth.
 * If any bits of chocolate remain, reheat briefly, then stir until smooth.
 
 Assembly
 
 * Oreo frosting goes between each layer as well as a swirl of chocolate (don't go overboard, the ganache will overpower the other flavors).
 * Coat outside with buttercream and smooth.
-* Add a skirt of crushed Oreos at the bottom of the cake.
-* Pour the ganache on top and allow to drip. Smooth top with an offset spatula.
+* Add a skirt of crushed Oreos, or more ganache, at the bottom of the cake.
+* Test ganache on a plate, then pour on top of the cake and allow to drip. Smooth top with an offset spatula.
 
 ## Notes
 
