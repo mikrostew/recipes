@@ -1,29 +1,33 @@
 # biscuits
 
+The best southern buttermilk biscuits I know how to make
+
+_Makes 15 biscuits_
+
 ## Ingredients
 
-* [ ] 1/2 Cup (4oz) **buttermilk**, chilled
-* [ ] 1/2 Cup (4oz) **sour cream**, chilled
-* [ ] 2 Cups (250g) **flour**†, plus some for rolling out
-* [ ] 4 tsp **baking powder**
-* [ ] 1/4 tsp **baking soda**
+* [ ] 3/4 Cup (6oz) **buttermilk**, chilled
+* [ ] 3/4 Cup (6oz) **sour cream**, chilled
+* [ ] 3 Cups (375g) **flour**†, plus some for rolling out
+* [ ] 2 Tbsp **baking powder**
+* [ ] 1/2 tsp **baking soda**
 * [ ] 1/2 tsp **salt**
-* [ ] 4 Tbsp (1/2 stick; 60g) **butter**
-* [ ] 4 Tbsp (1/4 Cup; 60g) **shortening**
+* [ ] 5 Tbsp **butter**
+* [ ] 5 Tbsp **shortening**
 
-† _Use soft southern wheat flour (White Lily), or 4 parts all purpose to 1 part cake flour (200g:50g)_
+† _Use soft southern wheat flour (White Lily), or 4 parts all purpose to 1 part cake flour (300g:75g)_
 
 ## Directions
 
 * Preheat oven to 425°F.
 
-* Whisk **buttermilk** and **sour cream** in a small bowl until homogenous.
+* Whisk **buttermilk** and **sour cream** in a measuring cup until homogenous.
 
-* In a large mixing bowl, combine **flour**, **baking powder**, **baking soda** and **salt**. Using a pastry cutter (or spoon, or your fingers), work **butter** and **shortening** into dry ingredients until mixture resembles bread crumbs or cornmeal. Add **wet mixture**, and fold with a spatula, until combined.
+* In a large mixing bowl, combine **flour**, **baking powder**, **baking soda** and **salt**. Using a pastry cutter (or spoon, or your fingers), work **butter** and **shortening** into dry ingredients until mixture resembles bread crumbs or cornmeal. Add **wet mixture**, and stir with a fork until just combined.
 
 * Turn dough onto floured surface, and gently pat out into a 1-inch thick round. Cut out biscuits with a floured 2 1/2-inch cutter (or the rim of a cup) - push down all the way and twist. Place biscuits on baking sheet so that they are not touching. Reform scrap dough, working it as little as possible, and continue cutting.
 
-* Push biscuits down in the center with your thumb (to get an even rise). Bake until biscuits are tall and light gold on top, about 15 minutes. Optionally brush tops with melted butter.
+* Push biscuits down slightly in the center with your thumb (to get an even rise). Bake until biscuits are tall and light gold on top, about 15 minutes. Optionally brush tops with melted butter.
 
 
 ## Notes
@@ -46,5 +50,7 @@ I added some extra fat, but the biscuits spread too much, so I incorporated some
 One thing I don't do is laminate the dough like in that recipe. To me, biscuits are a quick bread, not a pastry. That's too much like making rough puff.
 
 At this point, the biscuits don't rise as much as I would like, so I will incorporate some extra baking powder and see how that goes.
+
+I 1.5x-ed the recipe since it's nice to have some of these left over.
 
 I've seen some other recipes that advise freezing the butter for a bit then grating it, like [this one](https://sugarspunrun.com/easy-homemade-biscuits/), but it doesn't come out any different when I've tried that. And it just gets more things dirty.
