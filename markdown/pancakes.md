@@ -1,12 +1,14 @@
 # pancakes
 
-Betty Crocker
+Makes 20 4-inch pancakes.
 
 ## Ingredients
 
 * [ ] 2 eggs
 * [ ] 2 cups buttermilk (or kefir)
 * [ ] 1/4 cup (4 Tbsp) oil
+* [ ] 2 Tbsp melted butter
+* [ ] 2 tsp vanilla extract 
 * [ ] 2 cups (250g) all-purpose flour (can use 1/2 whole wheat) †
 * [ ] 1 Tbsp sugar
 * [ ] 2 tsp baking powder
@@ -17,11 +19,9 @@ Betty Crocker
 
 ## Directions
 
-Beat egg; add buttermilk and oil. Combine dry ingredients in a separate bowl. Mix dry ingredients into wet, stirring until just combined (batter will be lumpy).
+Beat egg; add buttermilk, oil, butter, and vanilla. Combine dry ingredients in a separate bowl. Mix dry ingredients into wet, whisking until just combined (batter will be lumpy).
 
 Grease heated griddle with butter. Pour batter onto hot griddle (1/4 cup is about right). Turn pancakes as soon as they are puffed and full of bubbles (before the bubbles break). Bake other side until golden brown.
-
-Makes 20 4-inch pancakes.
 
 
 ## Notes
