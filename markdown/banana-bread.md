@@ -3,10 +3,10 @@
 ## Ingredients
 
 * [ ] 1 1/2 cups (187g) flour
-* [ ] 1/2 tsp salt
+* [ ] 1/2 tsp kosher salt
 * [ ] 1 tsp baking soda
 * [ ] 1/2 tsp baking powder
-* [ ] 1/2 Tbsp (1 1/2 tsp) ground cinnamon
+* [ ] 1 tsp ground cinnamon
 * [ ] 1 1/2 eggs
 * [ ] 1/2 cup (100g) vegetable oil
 * [ ] 3 Tbsp butter, melted
@@ -32,4 +32,4 @@
 
 ## Notes
 
-This is the [zucchini bread recipe](./zucchini-bread.md), but with bananas and some extra melted butter (and extra baking soda for balance). This uses more bananas by weight, to keep the amount of water the same &mdash; zucchini is 90% water, vs. 75% for bananas.
+This started as the [zucchini bread recipe](./zucchini-bread.md), but substituting bananas (along with other adjustments). This uses more bananas by weight, to keep the amount of water the same &mdash; zucchini is 90% water, vs. 75% for bananas.
