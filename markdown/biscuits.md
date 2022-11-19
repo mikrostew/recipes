@@ -2,7 +2,7 @@
 
 The best southern buttermilk biscuits I know how to make
 
-_Makes 15 biscuits_
+_Makes 15-18 biscuits_
 
 ## Ingredients
 
@@ -12,8 +12,8 @@ _Makes 15 biscuits_
 * [ ] 2 Tbsp **baking powder**
 * [ ] 1/2 tsp **baking soda**
 * [ ] 1/2 tsp **salt**
-* [ ] 5 Tbsp **butter**
-* [ ] 5 Tbsp **shortening**
+* [ ] 6 Tbsp **butter**
+* [ ] 3 Tbsp **shortening**
 
 † _Use soft southern wheat flour (White Lily), or 4 parts all purpose to 1 part cake flour (300g:75g)_
 
