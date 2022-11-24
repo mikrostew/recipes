@@ -59,6 +59,7 @@
 * [Orange Marmalade (TODO)](markdown/orange-marmalade-TODO.md)
 * [Oreo Cake](markdown/oreo-cake.md)
 * [Peanut Butter Cookies](markdown/peanut-butter-cookies.md)
+* [Pecan Pie](markdown/pecan-pie.md)
 * [Pumpkin Pie](markdown/pumpkin-pie.md)
 * [Scones (TODO)](markdown/scones-TODO.md)
 * [Strawberry Cake](markdown/strawberry-cake.md)
