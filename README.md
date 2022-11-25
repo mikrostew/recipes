@@ -73,7 +73,6 @@
 * [Chocolate Ganache](markdown/chocolate-ganache.md)
 * [Cupcake Frosting](markdown/cupcake-frosting.md)
 * [Mocha Whipped Cream](markdown/mocha-whipped-cream.md)
-* [Old Fashioned Pie Crust](markdown/old-fashioned-pie-crust.md)
 * [Pie Crust](markdown/pie-crust.md)
 * [Raspberry Filling](markdown/raspberry-filling.md)
 * [Whipped Cream](markdown/whipped-cream.md)
