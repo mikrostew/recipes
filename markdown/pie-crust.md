@@ -1,5 +1,7 @@
 # pie crust
 
+_Makes 2 pie crusts_
+
 ## Ingredients
 
 * [ ] 2 1/2 cups (12.5 ounces; 350g) all-purpose flour, divided
@@ -15,6 +17,8 @@
 
 * Sprinkle with water. Then, using a rubber spatula, fold and press dough until it comes together into a ball. Divide ball in half. Form each half into a 4-inch disk. Wrap tightly in plastic and refrigerate for at least 2 hours before rolling and baking. 
 
+_Note: what I should probably do that this point is just roll it out and get it setup in the pie plate, then get it in the fridge_
+
 * When ready to shape the dough, pull out one ball, set it on a well-floured work surface, and sprinkle with more flour. Use a tapered rolling pin to start rolling the dough out into a circle, lifting the dough and rotating it while rolling to achieve an even shape. Continue rolling, changing the angle of your rolling pin as you go to get an even shape and thickness. The finished dough should overhang your pie plate by an inch or two. 
 
 * Pick up the dough by carefully rolling it around your rolling pin, using your bench scraper to help lift it off the work surface. Unroll it over a pie plate. Gently lift and fit the dough into the pie plate, getting down into the corners. 
@@ -26,6 +30,14 @@
 
 ## Notes
 
-From https://www.seriouseats.com/easy-pie-dough-recipe
+This is from https://www.seriouseats.com/easy-pie-dough-recipe.
 
-For a slightly more tender crust, replace up to 6 tablespoons of butter with vegetable shortening. Pie dough can be frozen for up to 3 months. Thaw in refrigerator before rolling and baking. 
+For a slightly more tender crust, replace up to 6 tablespoons of butter with vegetable shortening. Pie dough can be frozen for up to 3 months. Thaw in refrigerator before rolling and baking.
+
+I need a pie crust recipe that works consistently well. I've had good pie crusts from places that specialize in pie, and I don't know what they do.
+
+* Store-bought crust sucks.
+* I've tried this, the [SE easy pie dough](https://www.seriouseats.com/easy-pie-dough-recipe), and it worked well once a few years ago for an apple pie. Every other time it has been overbaked on the sides, and under in the center.
+* I've tried the [SE old-fashioned pie crust](https://www.seriouseats.com/recipes/2016/06/old-fashioned-flaky-pie-dough-recipe.html), but haven't had any success with that. It has consistently been hard and crunchy instead of tender and flaky.
+
+So, time to do some research I guess.
