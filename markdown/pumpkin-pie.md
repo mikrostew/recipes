@@ -24,3 +24,5 @@
 ## Notes
 
 From https://www.hummingbirdhigh.com/2020/11/libbys-pumpkin-pie-recipe-elevated.html, which uses the [original Libby's recipe](https://www.verybestbaking.com/libbys/recipes/libby-s-famous-pumpkin-pie/) and tries to improves it with a pre-baked crust. I haven't had good results using a store-bought crust though.
+
+Might try https://www.seriouseats.com/extra-smooth-pumpkin-pie-recipe, since the crust always comes out soggy with this recipe.
