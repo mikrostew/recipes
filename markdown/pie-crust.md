@@ -41,3 +41,8 @@ I need a pie crust recipe that works consistently well. I've had good pie crusts
 * I've tried the [SE old-fashioned pie crust](https://www.seriouseats.com/recipes/2016/06/old-fashioned-flaky-pie-dough-recipe.html), but haven't had any success with that. It has consistently been hard and crunchy instead of tender and flaky.
 
 So, time to do some research I guess.
+
+Maybe I need to do the pre-bake differently? https://www.seriouseats.com/how-to-blind-bake-a-pie-crust
+
+Some other ideas here: https://cooking.stackexchange.com/questions/65640/non-flaky-non-crumble-pie-crust
+
