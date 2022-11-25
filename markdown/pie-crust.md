@@ -46,3 +46,4 @@ Maybe I need to do the pre-bake differently? https://www.seriouseats.com/how-to-
 
 Some other ideas here: https://cooking.stackexchange.com/questions/65640/non-flaky-non-crumble-pie-crust
 
+Couple videos that might be helpful: https://www.youtube.com/watch?v=i7648rZpdck, https://www.youtube.com/watch?v=IYvJIgjLzxs
