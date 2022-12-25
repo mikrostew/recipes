@@ -92,6 +92,7 @@
 * [Banana Bread](markdown/banana-bread.md)
 * [Buttermilk Quick Bread (with variations)](markdown/buttermilk-quick-bread.md)
 * [Cranberry Nut Bread](markdown/cranberry-nut-bread.md)
+* [Pumpkin Bread](markdown/pumpkin-bread.md)
 * [Sour Cream Pound Cake](markdown/sour-cream-pound-cake.md)
 * [Zucchini Bread](markdown/zucchini-bread.md)
 
