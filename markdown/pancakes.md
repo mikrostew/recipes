@@ -6,11 +6,10 @@ Makes 20 4-inch pancakes.
 
 * [ ] 2 eggs
 * [ ] 2 cups buttermilk (or kefir)
-* [ ] 1/4 cup (4 Tbsp) oil
-* [ ] 2 Tbsp melted butter
+* [ ] 6 Tbsp melted butter
 * [ ] 2 tsp vanilla extract 
 * [ ] 2 cups (250g) all-purpose flour (can use 1/2 whole wheat) †
-* [ ] 1 Tbsp sugar
+* [ ] 1 Tbsp (15g) sugar
 * [ ] 2 tsp baking powder
 * [ ] 1 tsp baking soda
 * [ ] 1/2 tsp salt
