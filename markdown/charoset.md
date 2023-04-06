@@ -4,9 +4,9 @@ For passover
 
 ## Ingredients
 
-* [ ] 3 medium apples (Gala and/or Granny Smith), peeled and finely diced (or grated)
+* [ ] 3 medium apples (Gala and/or Granny Smith), peeled and grated
 * [ ] 1 1/2 cups walnut halves, toasted (275° for 20 mins), and coarsely chopped
-* [ ] 1/2 cup sweet red wine (or red wine + honey to taste), simmered for 20 mins to remove alcohol for the kids
+* [ ] 1 cup red wine, simmered for ~20 mins (down to ~1/2 cup), + honey to taste
 * [ ] 1 Tbsp lemon juice
 * [ ] zest of one orange
 * [ ] 1 1/2 tsp ground cinnamon
@@ -14,7 +14,9 @@ For passover
 
 ## Directions
 
-* In large bowl, stir together all ingredients. Store, covered, at room temperature until ready to serve.
+* While the walnuts toast and wine simmers, peel and grate the apples.
+
+* In large bowl, stir together all ingredients. Refridgerate until ready to serve.
 
 ## Notes
 
