@@ -4,20 +4,20 @@ Makes about 2 dozen cookies
 
 ## Ingredients
 
-* 8 ounces unsalted butter (2 sticks; 225g)
-* 1 standard ice cube (about 2 tablespoons; 30mL frozen water)
-* 10 ounces all-purpose flour (about 2 cups; 280g)
-* 3/4 teaspoon (3g) baking soda
-* 2 teaspoons Diamond Crystal kosher salt or 1 teaspoon table salt (4g)
-* 5 ounces granulated sugar (about 3/4 cup; 140g)
-* 2 large eggs (100g)
-* 2 teaspoons (10mL) vanilla extract
-* 5 ounces dark brown sugar (about 1/2 tightly packed cup plus 2 tablespoons; 140g)
-* 8 ounces (225g) semisweet chocolate, roughly chopped with a knife into 1/2- to 1/4-inch chunks
+* [ ] 8 ounces unsalted butter (2 sticks; 225g)
+* [ ] 1 ice cube (about 2 tablespoons; 30mL frozen water)
+* [ ] 10 ounces all-purpose flour (about 2 cups; 280g)
+* [ ] 3/4 teaspoon (3g) baking soda
+* [ ] 1 1/2 teaspoons kosher salt
+* [ ] 5 ounces granulated sugar (about 3/4 cup; 140g)
+* [ ] 2 large eggs (100g)
+* [ ] 2 teaspoons (10mL) vanilla extract
+* [ ] 5 ounces dark brown sugar (140g)
+* [ ] 8 ounces (225g) semisweet chocolate, roughly chopped with a knife into 1/2- to 1/4-inch chunks
 
 ## Directions
 
-* Melt butter in a medium saucepan over medium-high heat. Cook, gently swirling pan constantly, until particles begin to turn golden brown and butter smells nutty, about 5 minutes. Remove from heat and continue swirling the pan until the butter is a rich brown, about 15 seconds longer. Transfer to a medium bowl, whisk in ice cube, transfer to refrigerator, and allow to cool completely, about 20 minutes, whisking occasionally. (Alternatively, whisk over an ice bath to hasten the process.)
+* Melt butter in a medium saucepan over low heat. Cook, gently swirling pan constantly, until particles begin to turn golden brown and butter smells nutty, about 5 minutes. Remove from heat and continue swirling the pan until the butter is a rich brown, about 15 seconds longer. Transfer to a medium bowl, whisk in ice cube, transfer to refrigerator, and allow to cool completely, about 25 minutes, whisking occasionally. (Alternatively, whisk over an ice bath to hasten the process.)
 
 * Meanwhile, whisk together flour, baking soda, and salt in a large bowl. Place granulated sugar, eggs, and vanilla extract in the bowl of a stand mixer fitted with the whisk attachment. Whisk on medium-high speed until mixture is pale brownish-yellow and falls off the whisk in thick ribbons when lifted, about 5 minutes.
 
