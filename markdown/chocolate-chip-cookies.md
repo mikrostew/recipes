@@ -6,14 +6,14 @@ Makes about 2 dozen cookies
 
 * [ ] 8 ounces unsalted butter (2 sticks; 225g)
 * [ ] 1 ice cube (about 2 tablespoons; 30mL frozen water)
-* [ ] 10 ounces all-purpose flour (about 2 cups; 280g)
+* [ ] 11 ounces all-purpose flour (310g)
 * [ ] 3/4 teaspoon (3g) baking soda
 * [ ] 1 1/2 teaspoons kosher salt
-* [ ] 5 ounces granulated sugar (about 3/4 cup; 140g)
+* [ ] 5 ounces granulated sugar (140g)
 * [ ] 2 large eggs (100g)
 * [ ] 2 teaspoons (10mL) vanilla extract
 * [ ] 5 ounces dark brown sugar (140g)
-* [ ] 8 ounces (225g) semisweet chocolate, roughly chopped with a knife into 1/2- to 1/4-inch chunks
+* [ ] 8 ounces (225g) semisweet chocolate chips
 
 ## Directions
 
@@ -23,9 +23,9 @@ Makes about 2 dozen cookies
 
 * Fit paddle attachment onto mixer. When brown butter mixture has cooled (it should be just starting to turn opaque again and firm around the edges), add brown sugar and cooled brown butter to egg mixture in stand mixer. Mix on medium speed to combine, about 15 seconds. Add flour mixture and mix on low speed until just barely combined, with some dry flour still remaining, about 15 seconds. Add chocolate and mix on low speed until dough comes together, about 15 seconds longer. Transfer to an airtight container and refrigerate dough at least overnight and up to 3 days.
 
-* When ready to bake, adjust oven racks to upper- and lower-middle positions and preheat oven to 325°F. Using a 1-ounce ice cream scoop or a spoon, place scoops of cookie dough onto a nonstick or parchment-lined baking sheet. Each ball should measure approximately 3 tablespoons in volume, and you should be able to fit 6 to 8 balls on each sheet. Tear each ball in half to reveal a rougher surface, then stick them back together with the rough sides facing outward. Transfer to oven and bake until golden brown around edges but still soft, 13 to 16 minutes, rotating pans back to front and top to bottom halfway through baking.
+* When ready to bake, adjust oven rack to middle position and preheat oven to 325°F. Using a spoon, place scoops of cookie dough (35 to 37g) onto a parchment-lined baking sheet. You should be able to fit 6 to 8 balls on each sheet. Transfer to oven and bake until golden brown around edges but still soft, 15 minutes.
 
-* Remove baking sheets from oven. While cookies are still hot, sprinkle very lightly with coarse salt and gently press salt down to embed. Let cool for 2 minutes, then transfer cookies to a wire rack to cool completely. 
+* Remove baking sheet from oven, let cool for 2 minutes, then transfer cookies to a wire rack to cool completely. 
 
 * Repeat steps 3 through 5 for remaining cookie dough. Allow cookies to cool completely before storing in an airtight container, plastic bag, or cookie jar at room temperature for up to 5 days.
 
@@ -33,4 +33,4 @@ Makes about 2 dozen cookies
 
 From [Serious Eats](https://www.seriouseats.com/recipes/2013/12/the-food-lab-best-chocolate-chip-cookie-recipe.html) - see also the [long article explaining the different factors that affect cookies](https://sweets.seriouseats.com/2013/12/the-food-lab-the-best-chocolate-chip-cookies.html)
 
-These spread more than I expected. TODO: I should read that long article to see how I can adjust things...
+These spread more than I expected, so I added an extra ounce of flour.
